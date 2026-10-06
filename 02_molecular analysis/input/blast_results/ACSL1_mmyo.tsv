@@ -1,0 +1,807 @@
+XP_036156684.1	XP_036156688	100.000	724	724	724	100	0.0	1500	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_036156687	100.000	724	724	724	100	0.0	1500	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_036156686	100.000	724	724	724	100	0.0	1500	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_036156685	100.000	724	724	724	100	0.0	1500	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_036156684	100.000	724	724	724	100	0.0	1500	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_059541670	99.724	724	724	724	100	0.0	1498	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_023612955	99.586	724	724	725	100	0.0	1497	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis lucifugus]	59463
+XP_036156684.1	XP_080940211	99.862	724	724	724	100	0.0	1497	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Myotis nattereri]	109481
+XP_036156684.1	XP_070264276	99.309	724	724	725	100	0.0	1494	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis yumanensis]	159337
+XP_036156684.1	XP_014386894	99.033	724	724	725	100	0.0	1492	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis brandtii]	109478
+XP_036156684.1	XP_014386893	99.033	724	724	725	100	0.0	1492	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis brandtii]	109478
+XP_036156684.1	XP_005883912	99.033	724	724	725	100	0.0	1492	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis brandtii]	109478
+XP_036156684.1	XP_005883917	99.033	724	724	725	100	0.0	1492	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis brandtii]	109478
+XP_036156684.1	XP_054576115	97.234	723	724	724	99	0.0	1466	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_045444919	96.266	723	724	724	99	0.0	1451	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036312296	96.266	723	724	724	99	0.0	1451	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036156683	96.409	724	724	698	100	0.0	1431	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis myotis]	51298
+XP_036156684.1	XP_016066774	93.785	724	724	724	100	0.0	1429	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_059541672	96.133	724	724	698	100	0.0	1429	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis daubentonii]	98922
+XP_036156684.1	XP_014314592	95.994	724	724	699	100	0.0	1427	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis lucifugus]	59463
+XP_036156684.1	XP_036156682	95.718	724	724	698	100	0.0	1426	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_036156681	95.736	727	724	701	100	0.0	1425	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_070264275	95.718	724	724	699	100	0.0	1425	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis yumanensis]	159337
+XP_036156684.1	XP_059541671	95.580	724	724	698	100	0.0	1425	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_014314593	95.442	724	724	699	100	0.0	1423	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis lucifugus]	59463
+XP_036156684.1	XP_014386890	95.442	724	724	699	100	0.0	1422	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_080940210	95.580	724	724	698	100	0.0	1422	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_023612956	95.323	727	724	702	100	0.0	1421	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis lucifugus]	59463
+XP_036156684.1	XP_070264274	95.166	724	724	699	100	0.0	1420	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_070264273	95.166	724	724	699	100	0.0	1420	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_014386891	94.890	724	724	699	100	0.0	1418	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_080903082	92.403	724	724	724	100	0.0	1410	long-chain-fatty-acid--CoA ligase 1 isoform 4 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903081	92.403	724	724	724	100	0.0	1410	long-chain-fatty-acid--CoA ligase 1 isoform 4 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_036105432	92.127	724	724	724	100	0.0	1407	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036105431	92.127	724	724	724	100	0.0	1407	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036105430	92.127	724	724	724	100	0.0	1407	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036105429	92.127	724	724	724	100	0.0	1407	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036105428	92.127	724	724	724	100	0.0	1407	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_045677842	91.713	724	724	724	100	0.0	1404	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_032960931	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960930	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960929	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960928	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960926	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960925	91.575	724	724	724	100	0.0	1403	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_019591692	91.713	724	724	724	100	0.0	1402	long-chain-fatty-acid--CoA ligase 1 isoform X5 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_079634584	93.914	723	724	698	99	0.0	1401	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_054576113	93.776	723	724	698	99	0.0	1400	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_035867655	90.884	724	724	724	100	0.0	1397	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_039738595	91.148	723	724	724	99	0.0	1397	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_054422148	90.884	724	724	724	100	0.0	1396	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054422147	90.884	724	724	724	100	0.0	1396	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054422146	90.884	724	724	724	100	0.0	1396	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054422145	90.884	724	724	724	100	0.0	1396	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054422144	90.884	724	724	724	100	0.0	1396	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_080516974	93.508	724	724	698	100	0.0	1394	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516973	93.508	724	724	698	100	0.0	1394	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516983	93.508	724	724	698	100	0.0	1394	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516982	93.508	724	724	698	100	0.0	1394	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516981	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516980	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516979	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516978	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516977	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516976	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080516972	92.956	724	724	698	100	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_079634583	93.223	723	724	698	99	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079634582	93.223	723	724	698	99	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079634581	93.223	723	724	698	99	0.0	1392	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_054576112	93.084	723	724	698	99	0.0	1391	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_036312298	92.808	723	724	698	99	0.0	1384	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_015425254	92.497	733	724	707	100	0.0	1382	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X1 [Myotis davidii]	225400
+XP_036156684.1	XP_036984674	89.779	724	724	724	100	0.0	1379	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036984675	89.779	724	724	724	100	0.0	1379	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036984673	89.779	724	724	724	100	0.0	1379	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036312300	92.254	723	724	698	99	0.0	1378	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036984670	89.779	724	724	763	100	0.0	1377	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036911064	89.365	724	724	724	100	0.0	1372	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036911063	89.365	724	724	724	100	0.0	1372	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_080980788	90.193	724	724	698	100	0.0	1367	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080980787	90.193	724	724	698	100	0.0	1367	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080980786	90.193	724	724	698	100	0.0	1367	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080980790	90.331	724	724	698	100	0.0	1365	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080980789	90.331	724	724	698	100	0.0	1365	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_016066775	90.193	724	724	698	100	0.0	1364	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_066236263	88.658	723	724	724	99	0.0	1363	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066093925	88.658	723	724	724	99	0.0	1363	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_015425255	91.269	733	724	707	100	0.0	1363	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_045053046	88.674	724	724	698	100	0.0	1348	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053772389	88.674	724	724	698	100	0.0	1348	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_071076277	88.812	724	724	698	100	0.0	1346	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_080903077	89.088	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 6 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903076	89.088	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 6 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903075	89.088	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 6 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903074	89.088	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 6 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903073	89.088	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 6 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903079	89.088	724	724	740	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform 2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_036105435	88.950	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Molossus molossus]	27622
+XP_036156684.1	XP_036105434	88.950	724	724	698	100	0.0	1345	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Molossus molossus]	27622
+XP_036156684.1	XP_080903080	88.812	724	724	724	100	0.0	1343	long-chain-fatty-acid--CoA ligase 1 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903072	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903071	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903070	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903069	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903068	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903085	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903084	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903083	88.812	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 5 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_045677841	88.398	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045677839	88.398	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045677838	88.398	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045677836	88.398	724	724	698	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_080903078	88.812	724	724	740	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080903067	88.812	724	724	740	100	0.0	1342	long-chain-fatty-acid--CoA ligase 1 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_045677837	88.398	724	724	698	100	0.0	1339	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_059541673	90.746	724	724	672	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis daubentonii]	98922
+XP_036156684.1	XP_019591689	88.398	724	724	698	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019591688	88.398	724	724	698	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074185938	88.398	724	724	698	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_032960934	88.260	724	724	698	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_036105433	88.260	724	724	698	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_074185936	88.398	724	724	724	100	0.0	1338	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_014314594	90.608	724	724	673	100	0.0	1337	long-chain-fatty-acid--CoA ligase 1 isoform X5 [Myotis lucifugus]	59463
+XP_036156684.1	XP_028382269	87.707	724	724	698	100	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_011362319	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011362318	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_039738594	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_039738593	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_039738592	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_039738591	87.967	723	724	698	99	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_054422149	87.707	724	724	698	100	0.0	1335	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_032960933	87.983	724	724	698	100	0.0	1334	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960932	87.983	724	724	698	100	0.0	1334	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_028382271	87.707	724	724	698	100	0.0	1334	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_074185937	88.122	724	724	724	100	0.0	1334	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074185943	88.122	724	724	698	100	0.0	1333	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074185942	88.122	724	724	698	100	0.0	1333	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074185941	88.122	724	724	698	100	0.0	1333	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074185940	88.122	724	724	698	100	0.0	1333	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_054422150	87.707	724	724	698	100	0.0	1332	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_014386892	90.055	724	724	673	100	0.0	1331	PREDICTED: long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis brandtii]	109478
+XP_036156684.1	XP_036105437	88.398	724	724	690	100	0.0	1330	long-chain-fatty-acid--CoA ligase 1 isoform X5 [Molossus molossus]	27622
+XP_036156684.1	XP_036105436	87.983	724	724	692	100	0.0	1330	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Molossus molossus]	27622
+XP_036156684.1	XP_036984672	86.740	724	724	737	100	0.0	1319	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036984671	86.602	724	724	737	100	0.0	1314	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036911065	86.050	724	724	698	100	0.0	1312	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036911066	86.188	724	724	698	100	0.0	1310	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_066236262	85.477	723	724	698	99	0.0	1306	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066236261	85.477	723	724	698	99	0.0	1306	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066093923	85.477	723	724	698	99	0.0	1306	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066093922	85.477	723	724	698	99	0.0	1306	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_006916439	85.852	728	724	703	99	0.0	1303	long-chain-fatty-acid--CoA ligase 1 [Pteropus alecto]	9402
+XP_036156684.1	XP_015999465	85.635	724	724	698	100	0.0	1300	long-chain-fatty-acid--CoA ligase 1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_015999464	85.635	724	724	698	100	0.0	1300	long-chain-fatty-acid--CoA ligase 1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_066093924	85.477	723	724	698	99	0.0	1300	long-chain-fatty-acid--CoA ligase 1 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066236260	85.339	723	724	698	99	0.0	1298	long-chain-fatty-acid--CoA ligase 1 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_080512742	85.754	723	724	698	99	0.0	1290	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase 1-like [Plecotus auritus]	61862
+XP_036156684.1	XP_036312301	87.690	723	724	672	99	0.0	1278	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_054576114	87.137	723	724	650	99	0.0	1277	long-chain-fatty-acid--CoA ligase 1 isoform X3 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_079634172	84.232	723	724	698	99	0.0	1266	long-chain-fatty-acid--CoA ligase 1-like [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_036105438	84.530	724	724	664	100	0.0	1260	long-chain-fatty-acid--CoA ligase 1 isoform X6 [Molossus molossus]	27622
+XP_036156684.1	XP_035867656	83.425	724	724	672	100	0.0	1258	long-chain-fatty-acid--CoA ligase 1 isoform X4 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_054577367	83.126	723	724	698	99	0.0	1257	long-chain-fatty-acid--CoA ligase 1-like [Eptesicus fuscus]	29078
+XP_036156684.1	XP_080516975	92.379	643	724	617	89	0.0	1224	long-chain-fatty-acid--CoA ligase 1 isoform 3 [Plecotus auritus]	61862
+XP_036156684.1	XP_059544771	80.249	724	724	698	100	0.0	1214	long-chain-fatty-acid--CoA ligase 1-like [Myotis daubentonii]	98922
+XP_036156684.1	XP_005879052	80.110	724	724	698	100	0.0	1214	PREDICTED: long-chain-fatty-acid--CoA ligase 1 [Myotis brandtii]	109478
+XP_036156684.1	XP_080944187	79.834	724	724	698	100	0.0	1209	long-chain-fatty-acid--CoA ligase 1-like isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_036208509	79.144	724	724	698	100	0.0	1195	long-chain-fatty-acid--CoA ligase 1-like [Myotis myotis]	51298
+XP_036156684.1	XP_036299814	77.348	724	724	699	99	0.0	1159	long-chain-fatty-acid--CoA ligase 1-like [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_080944188	75.829	724	724	664	100	0.0	1132	long-chain-fatty-acid--CoA ligase 1-like isoform 2 [Myotis nattereri]	109481
+XP_036156684.1	XP_024412868	65.694	720	724	748	99	0.0	1046	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036906410	65.694	720	724	753	99	0.0	1045	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036985849	65.556	720	724	748	99	0.0	1044	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_035870569	65.833	720	724	748	99	0.0	1044	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_019611646	65.603	721	724	748	99	0.0	1041	long-chain-fatty-acid--CoA ligase 6 isoform X7 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_016052588	65.465	721	724	748	99	0.0	1040	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X4 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_036096709	65.417	720	724	748	99	0.0	1039	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Molossus molossus]	27622
+XP_036156684.1	XP_036280116	65.187	721	724	748	99	0.0	1037	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_019497780	65.326	721	724	748	99	0.0	1037	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X6 [Hipposideros armiger]	186990
+XP_036156684.1	XP_032952230	65.049	721	724	748	99	0.0	1035	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_039735919	65.049	721	724	748	99	0.0	1034	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Pteropus medius]	143291
+XP_036156684.1	XP_054573777	65.465	721	724	748	99	0.0	1024	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_045679345	63.889	720	724	722	99	0.0	1001	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045679358	63.889	720	724	697	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045679351	63.889	720	724	697	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_053768419	63.750	720	724	697	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045048577	63.750	720	724	697	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_024412866	63.750	720	724	697	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045048576	63.750	720	724	722	99	0.0	1000	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036985847	63.611	720	724	697	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036985848	63.611	720	724	697	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036985845	63.611	720	724	697	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_028384037	63.889	720	724	722	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_036906407	63.750	720	724	722	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036906405	63.750	720	724	727	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_045679338	63.750	720	724	697	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_028384040	63.889	720	724	697	99	0.0	999	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_024412867	63.611	720	724	722	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036985842	63.611	720	724	722	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036906409	63.750	720	724	697	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036906408	63.750	720	724	697	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_054424474	63.800	721	724	722	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_028384039	63.750	720	724	697	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_028384038	63.750	720	724	722	99	0.0	998	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_036906406	63.611	720	724	727	99	0.0	997	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036985843	63.472	720	724	722	99	0.0	996	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_019611642	63.662	721	724	714	99	0.0	996	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019611640	63.662	721	724	722	99	0.0	996	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074169579	63.662	721	724	714	99	0.0	996	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074169580	63.662	721	724	697	99	0.0	995	long-chain-fatty-acid--CoA ligase 6 isoform X6 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019611644	63.662	721	724	697	99	0.0	995	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019611643	63.662	721	724	697	99	0.0	995	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019611641	63.662	721	724	722	99	0.0	995	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_080992485	63.662	721	724	727	99	0.0	995	long-chain-fatty-acid--CoA ligase 6 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_016052585	63.523	721	724	722	99	0.0	994	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_036280114	63.245	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036280113	63.245	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036280111	63.245	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036280112	63.245	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_045432469	63.245	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_080992489	63.662	721	724	722	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_036170458	63.662	721	724	725	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_036170457	63.662	721	724	725	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_080992493	63.662	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform 6 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080992492	63.662	721	724	697	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform 6 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080992488	63.523	721	724	727	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_036985844	63.889	720	724	715	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_005865590	63.662	721	724	725	99	0.0	994	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X4 [Myotis brandtii]	109478
+XP_036156684.1	XP_036280109	63.245	721	724	722	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036280108	63.245	721	724	722	99	0.0	994	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_080992490	63.523	721	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_014394591	63.662	721	724	697	99	0.0	993	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X5 [Myotis brandtii]	109478
+XP_036156684.1	XP_036170465	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Myotis myotis]	51298
+XP_036156684.1	XP_036170463	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Myotis myotis]	51298
+XP_036156684.1	XP_036170462	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X5 [Myotis myotis]	51298
+XP_036156684.1	XP_036170461	63.662	721	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Myotis myotis]	51298
+XP_036156684.1	XP_036096706	63.472	720	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036096705	63.472	720	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_080992494	63.523	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform 7 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080948390	63.662	721	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_059554303	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059554302	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059554301	63.662	721	724	697	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059554299	63.662	721	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059554296	63.662	721	724	722	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_016052586	63.384	721	724	722	99	0.0	993	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_036170460	63.662	721	724	724	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Myotis myotis]	51298
+XP_036156684.1	XP_036170459	63.523	721	724	725	99	0.0	993	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_070271146	63.662	721	724	722	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Myotis yumanensis]	159337
+XP_036156684.1	XP_019497774	63.384	721	724	722	99	0.0	992	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_059554300	63.662	721	724	725	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Myotis daubentonii]	98922
+XP_036156684.1	XP_015973920	63.384	721	724	697	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_015973919	63.384	721	724	697	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_015973918	63.384	721	724	697	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_015973917	63.384	721	724	697	99	0.0	992	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_070271150	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_070271149	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_070271147	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_070271144	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_070271143	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_019497777	63.384	721	724	697	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X3 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019497776	63.384	721	724	697	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X3 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019497775	63.384	721	724	697	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X3 [Hipposideros armiger]	186990
+XP_036156684.1	XP_036280110	63.107	721	724	722	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_015973916	63.384	721	724	722	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_023619525	63.662	721	724	697	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 [Myotis lucifugus]	59463
+XP_036156684.1	XP_019497773	63.384	721	724	722	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_014394589	63.662	721	724	724	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_014394588	63.662	721	724	724	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_014394587	63.662	721	724	724	99	0.0	991	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_059554298	63.523	721	724	722	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_032952226	63.107	721	724	714	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032952223	63.107	721	724	722	99	0.0	991	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032952229	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032952228	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032952227	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_080992495	63.939	721	724	690	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform 8 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_070271145	63.523	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Myotis yumanensis]	159337
+XP_036156684.1	XP_032952224	63.107	721	724	722	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_080992491	63.939	721	724	715	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform 5 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080892346	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080892345	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080892344	63.107	721	724	697	99	0.0	990	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080892342	63.107	721	724	722	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_014394590	63.523	721	724	724	99	0.0	989	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X3 [Myotis brandtii]	109478
+XP_036156684.1	XP_015973921	63.333	720	724	697	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_011360570	63.107	721	724	697	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_080892343	63.107	721	724	722	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform 2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_039735918	63.107	721	724	697	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pteropus medius]	143291
+XP_036156684.1	XP_039735912	63.107	721	724	697	99	0.0	989	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pteropus medius]	143291
+XP_036156684.1	XP_080892348	63.107	721	724	697	99	0.0	988	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080892347	63.107	721	724	697	99	0.0	988	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_039735910	62.968	721	724	722	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_039735917	63.056	720	724	697	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735915	63.056	720	724	697	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735914	63.056	720	724	697	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735913	63.056	720	724	697	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735911	63.056	720	724	697	99	0.0	987	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_066200614	62.917	720	724	722	99	0.0	982	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066200619	62.917	720	724	697	99	0.0	982	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066200618	62.917	720	724	697	99	0.0	982	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_011360571	62.329	730	724	707	99	0.0	982	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_066200615	62.778	720	724	722	99	0.0	981	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066134528	62.917	720	724	697	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066134527	62.917	720	724	697	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066134524	62.917	720	724	722	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_080529011	63.523	721	724	697	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529010	63.523	721	724	697	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529009	63.523	721	724	697	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform 3 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529006	63.523	721	724	722	99	0.0	980	long-chain-fatty-acid--CoA ligase 6 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_066134525	62.778	720	724	722	99	0.0	979	long-chain-fatty-acid--CoA ligase 6 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_079628479	63.523	721	724	722	99	0.0	979	long-chain-fatty-acid--CoA ligase 6 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_006759225	62.968	721	724	725	99	0.0	979	PREDICTED: long-chain-fatty-acid--CoA ligase 6 [Myotis davidii]	225400
+XP_036156684.1	XP_066200617	63.194	720	724	715	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_080529014	63.384	721	724	697	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529013	63.384	721	724	697	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529012	63.384	721	724	697	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform 4 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529008	63.384	721	724	722	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_054573776	63.384	721	724	697	99	0.0	978	long-chain-fatty-acid--CoA ligase 6 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_066134526	63.194	720	724	715	99	0.0	977	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_079628480	63.384	721	724	722	99	0.0	977	long-chain-fatty-acid--CoA ligase 6 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_006923225	60.905	729	724	703	99	0.0	946	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase 6 [Pteropus alecto]	9402
+XP_036156684.1	XP_011360572	60.278	720	724	687	99	0.0	925	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_045679367	65.978	629	724	606	87	0.0	900	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_019497778	65.873	630	724	606	87	0.0	897	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X4 [Hipposideros armiger]	186990
+XP_036156684.1	XP_053768420	65.660	629	724	606	87	0.0	895	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036280115	65.238	630	724	606	87	0.0	895	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036170466	65.873	630	724	606	87	0.0	894	long-chain-fatty-acid--CoA ligase 6 isoform X6 [Myotis myotis]	51298
+XP_036156684.1	XP_080948391	65.873	630	724	606	87	0.0	894	long-chain-fatty-acid--CoA ligase 6 isoform 2 [Myotis nattereri]	109481
+XP_036156684.1	XP_080992486	65.714	630	724	606	87	0.0	894	long-chain-fatty-acid--CoA ligase 6 isoform 9 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_016052587	65.556	630	724	606	87	0.0	893	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X3 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_080992487	65.556	630	724	606	87	0.0	892	long-chain-fatty-acid--CoA ligase 6 isoform 10 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_045709961	59.800	699	724	699	97	0.0	890	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045709963	59.800	699	724	683	97	0.0	889	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045709962	59.800	699	724	683	97	0.0	889	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_036096707	58.194	720	724	674	99	0.0	887	long-chain-fatty-acid--CoA ligase 6 isoform X3 [Molossus molossus]	27622
+XP_036156684.1	XP_019580699	59.084	699	724	699	97	0.0	885	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019502217	59.084	699	724	699	97	0.0	885	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_074195165	59.084	699	724	683	97	0.0	885	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019580701	59.084	699	724	683	97	0.0	885	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019502219	59.084	699	724	683	97	0.0	884	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019502218	59.084	699	724	683	97	0.0	884	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_032986319	58.798	699	724	683	97	0.0	884	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032986317	58.798	699	724	699	97	0.0	884	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_035883185	59.084	699	724	683	97	0.0	884	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035883183	59.084	699	724	683	97	0.0	884	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_045047304	59.514	699	724	683	97	0.0	883	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045047303	59.514	699	724	683	97	0.0	883	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045047302	59.514	699	724	683	97	0.0	883	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045047301	59.514	699	724	683	97	0.0	883	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_080930219	58.941	699	724	683	97	0.0	883	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_028369825	59.084	699	724	699	97	0.0	882	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035883182	59.084	699	724	699	97	0.0	882	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_071077255	59.514	699	724	699	97	0.0	882	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_080930218	58.941	699	724	699	97	0.0	882	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080529015	65.714	630	724	606	87	0.0	882	long-chain-fatty-acid--CoA ligase 6 isoform 5 [Plecotus auritus]	61862
+XP_036156684.1	XP_080529007	65.556	630	724	606	87	0.0	880	long-chain-fatty-acid--CoA ligase 6 isoform 6 [Plecotus auritus]	61862
+XP_036156684.1	XP_081014140	58.056	720	724	699	99	0.0	879	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080960919	57.778	720	724	699	99	0.0	879	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_080960918	57.778	720	724	699	99	0.0	879	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_006778778	58.392	709	724	683	98	0.0	878	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_006778777	58.392	709	724	683	98	0.0	878	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_006778776	58.392	709	724	683	98	0.0	878	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_016067598	57.917	720	724	699	99	0.0	878	PREDICTED: long-chain-fatty-acid--CoA ligase 5 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_006778775	58.392	709	724	699	98	0.0	878	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis davidii]	225400
+XP_036156684.1	XP_059517366	57.500	720	724	699	99	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059517368	58.655	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059517367	58.655	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_036191888	57.778	720	724	699	99	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_081014141	59.084	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_053524400	59.227	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053524399	59.227	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036191890	58.798	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_036191889	58.798	699	724	683	97	0.0	877	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_053524398	59.227	699	724	699	97	0.0	876	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036988794	59.227	699	724	699	97	0.0	876	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_070288385	57.222	720	724	699	99	0.0	872	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_005874590	57.222	720	724	699	99	0.0	872	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_006088191	57.361	720	724	699	99	0.0	871	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Myotis lucifugus]	59463
+XP_036156684.1	XP_005874594	58.226	699	724	683	97	0.0	871	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_005874593	58.226	699	724	683	97	0.0	871	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_014401873	58.226	699	724	683	97	0.0	871	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_005874592	58.226	699	724	683	97	0.0	871	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_005874591	58.226	699	724	683	97	0.0	871	PREDICTED: long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_070288386	58.226	699	724	683	97	0.0	870	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis yumanensis]	159337
+XP_036156684.1	XP_023609128	58.369	699	724	683	97	0.0	870	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis lucifugus]	59463
+XP_036156684.1	XP_023609127	58.369	699	724	683	97	0.0	870	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Myotis lucifugus]	59463
+XP_036156684.1	XP_080544241	57.083	720	724	699	99	0.0	869	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_079649906	57.222	720	724	699	99	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_080544244	58.083	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080544243	58.083	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080544242	58.083	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_015451816	57.736	698	724	681	96	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteropus alecto]	9402
+XP_036156684.1	XP_036120428	58.369	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036120427	58.369	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036120426	58.369	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036120425	58.369	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036120424	58.369	699	724	683	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036120423	58.369	699	724	699	97	0.0	868	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_008142532	57.083	720	724	699	99	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_036919829	58.226	699	724	699	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036919828	58.226	699	724	699	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036919826	58.226	699	724	699	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_079649908	58.226	699	724	683	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079649907	58.226	699	724	683	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_036919831	58.226	699	724	683	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036919830	58.226	699	724	683	97	0.0	867	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036294899	58.655	699	724	683	97	0.0	866	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_006920918	57.736	698	724	697	96	0.0	866	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Pteropus alecto]	9402
+XP_036156684.1	XP_028005229	58.083	699	724	683	97	0.0	866	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_054584879	58.083	699	724	683	97	0.0	866	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_039727136	57.654	699	724	683	97	0.0	863	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039727134	57.654	699	724	683	97	0.0	863	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039727133	57.654	699	724	699	97	0.0	863	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_011357600	57.511	699	724	699	97	0.0	862	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_023385920	57.511	699	724	683	97	0.0	862	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011357601	57.511	699	724	683	97	0.0	862	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_054437490	59.084	699	724	699	97	0.0	855	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054437491	59.084	699	724	683	97	0.0	855	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_066094747	58.083	699	724	683	97	0.0	852	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066094746	58.083	699	724	683	97	0.0	852	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066094744	58.083	699	724	699	97	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_016015242	57.790	706	724	683	98	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016015241	57.790	706	724	683	98	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016015239	57.790	706	724	683	98	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016015240	57.790	706	724	683	98	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016015238	57.790	706	724	705	98	0.0	850	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_066210821	58.226	699	724	699	97	0.0	849	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066210823	58.226	699	724	683	97	0.0	848	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066210822	58.226	699	724	683	97	0.0	848	long-chain-fatty-acid--CoA ligase 5 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_080930220	61.867	632	724	607	87	0.0	843	long-chain-fatty-acid--CoA ligase 5 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080544246	55.794	699	724	659	97	0.0	825	long-chain-fatty-acid--CoA ligase 5 isoform 4 [Plecotus auritus]	61862
+XP_036156684.1	XP_080544245	54.861	720	724	675	99	0.0	825	long-chain-fatty-acid--CoA ligase 5 isoform 3 [Plecotus auritus]	61862
+XP_036156684.1	XP_045438039	57.396	676	724	716	93	0.0	813	long-chain-fatty-acid--CoA ligase 5 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_045438040	58.473	655	724	700	90	0.0	811	long-chain-fatty-acid--CoA ligase 5 isoform X4 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_045438038	58.473	655	724	688	90	0.0	811	long-chain-fatty-acid--CoA ligase 5 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_059513787	60.159	630	724	567	87	0.0	792	long-chain-fatty-acid--CoA ligase 6-like [Myotis daubentonii]	98922
+XP_036156684.1	XP_019497779	68.996	458	724	485	63	0.0	685	PREDICTED: long-chain-fatty-acid--CoA ligase 6 isoform X5 [Hipposideros armiger]	186990
+XP_036156684.1	XP_011360573	71.196	368	724	622	96	0.0	568	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011360573	47.353	340	724	622	96	1.54e-100	327	long-chain-fatty-acid--CoA ligase 6 isoform X4 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_019522723	90.182	275	724	480	65	0.0	531	PREDICTED: long-chain-fatty-acid--CoA ligase 1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019522723	91.667	192	724	480	65	1.05e-118	369	PREDICTED: long-chain-fatty-acid--CoA ligase 1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_054441589	34.400	625	724	720	83	2.06e-100	329	fatty acid CoA ligase Acsl3 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054441588	34.400	625	724	720	83	2.06e-100	329	fatty acid CoA ligase Acsl3 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_016054696	33.760	625	724	720	83	2.51e-99	326	PREDICTED: long-chain-fatty-acid--CoA ligase 3 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_080998904	33.760	625	724	720	83	2.51e-99	326	fatty acid CoA ligase Acsl3 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080998903	33.760	625	724	720	83	2.51e-99	326	fatty acid CoA ligase Acsl3 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_005883551	33.920	625	724	720	83	3.94e-99	326	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_074170126	33.600	625	724	622	83	5.69e-99	322	fatty acid CoA ligase Acsl3 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_035878689	34.080	625	724	720	83	6.12e-99	325	long-chain-fatty-acid--CoA ligase 3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035878688	34.080	625	724	720	83	6.12e-99	325	long-chain-fatty-acid--CoA ligase 3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035878687	34.080	625	724	720	83	6.12e-99	325	long-chain-fatty-acid--CoA ligase 3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_028366127	34.080	625	724	720	83	6.12e-99	325	long-chain-fatty-acid--CoA ligase 3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_036276821	33.600	625	724	720	83	1.42e-98	324	fatty acid CoA ligase Acsl3 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036276820	33.600	625	724	720	83	1.42e-98	324	fatty acid CoA ligase Acsl3 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_006082638	33.760	625	724	720	83	1.90e-98	324	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis lucifugus]	59463
+XP_036156684.1	XP_006763459	33.760	625	724	720	83	4.00e-98	323	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis davidii]	225400
+XP_036156684.1	XP_019609243	33.600	625	724	720	83	4.22e-98	323	fatty acid CoA ligase Acsl3 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019609242	33.600	625	724	720	83	4.22e-98	323	fatty acid CoA ligase Acsl3 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_024899033	33.920	625	724	720	83	8.16e-98	322	long-chain-fatty-acid--CoA ligase 3 [Pteropus alecto]	9402
+XP_036156684.1	XP_032968236	33.760	625	724	720	83	9.07e-98	322	fatty acid CoA ligase Acsl3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032968235	33.760	625	724	720	83	9.07e-98	322	fatty acid CoA ligase Acsl3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_036110321	33.280	625	724	720	83	1.08e-97	322	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036110320	33.280	625	724	720	83	1.08e-97	322	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036110319	33.280	625	724	720	83	1.08e-97	322	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_059559299	33.600	625	724	720	83	1.24e-97	322	fatty acid CoA ligase Acsl3 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059559298	33.600	625	724	720	83	1.24e-97	322	fatty acid CoA ligase Acsl3 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_011356812	33.760	625	724	720	83	1.48e-97	322	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_066201051	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066201050	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066201049	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066201048	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066201047	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066201046	33.280	625	724	720	83	1.79e-97	321	fatty acid CoA ligase Acsl3 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_036176679	33.600	625	724	720	83	3.54e-97	320	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_036176678	33.600	625	724	720	83	3.54e-97	320	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_036176677	33.600	625	724	720	83	3.54e-97	320	long-chain-fatty-acid--CoA ligase 3 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_080951622	33.600	625	724	720	83	3.54e-97	320	fatty acid CoA ligase Acsl3 [Myotis nattereri]	109481
+XP_036156684.1	XP_066135094	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135093	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135092	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135091	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135089	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135088	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135087	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135086	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066135085	33.440	625	724	720	83	6.04e-97	320	fatty acid CoA ligase Acsl3 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_079638928	33.440	625	724	720	83	6.50e-97	320	fatty acid CoA ligase Acsl3 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_054578740	33.440	625	724	720	83	6.64e-97	320	fatty acid CoA ligase Acsl3 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_024420038	33.280	625	724	720	83	7.69e-97	320	fatty acid CoA ligase Acsl3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_024420037	33.280	625	724	720	83	7.69e-97	320	fatty acid CoA ligase Acsl3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_080526994	33.440	625	724	720	83	8.81e-97	319	fatty acid CoA ligase Acsl3 [Plecotus auritus]	61862
+XP_036156684.1	XP_039711779	33.600	625	724	720	83	1.82e-96	318	fatty acid CoA ligase Acsl3 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_039711778	33.600	625	724	720	83	1.82e-96	318	fatty acid CoA ligase Acsl3 isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_036885285	33.440	625	724	720	83	1.93e-96	318	fatty acid CoA ligase Acsl3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036885284	33.440	625	724	720	83	1.93e-96	318	fatty acid CoA ligase Acsl3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036885283	33.440	625	724	720	83	1.93e-96	318	fatty acid CoA ligase Acsl3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_045710162	33.440	625	724	720	83	1.97e-96	318	fatty acid CoA ligase Acsl3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045710154	33.440	625	724	720	83	1.97e-96	318	fatty acid CoA ligase Acsl3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_036092303	33.600	625	724	720	83	2.31e-96	318	long-chain-fatty-acid--CoA ligase 3 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016012194	33.600	625	724	720	83	2.31e-96	318	long-chain-fatty-acid--CoA ligase 3 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016012192	33.600	625	724	720	83	2.31e-96	318	long-chain-fatty-acid--CoA ligase 3 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_053522579	33.280	625	724	720	83	6.31e-96	317	fatty acid CoA ligase Acsl3 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053522544	33.280	625	724	720	83	6.31e-96	317	fatty acid CoA ligase Acsl3 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036110322	33.166	597	724	568	79	1.58e-95	311	long-chain-fatty-acid--CoA ligase 3 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_070278338	33.120	625	724	720	83	1.65e-95	316	fatty acid CoA ligase Acsl3 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_023617564	33.388	614	724	696	83	3.40e-93	309	long-chain-fatty-acid--CoA ligase 3 isoform X2 [Myotis lucifugus]	59463
+XP_036156684.1	XP_036276822	33.225	614	724	696	83	5.99e-93	308	fatty acid CoA ligase Acsl3 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_079621250	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621249	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621248	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621247	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621246	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621245	30.428	631	724	670	83	2.35e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_008158344	30.428	631	724	670	83	2.58e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_008158343	30.428	631	724	670	83	2.58e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_059559301	33.225	614	724	696	83	2.73e-92	307	fatty acid CoA ligase Acsl3 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_008158342	30.428	631	724	711	83	5.80e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_079621244	30.428	631	724	711	83	6.24e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621243	30.428	631	724	711	83	6.24e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079621242	30.428	631	724	711	83	6.24e-92	306	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_045443359	30.269	631	724	670	83	9.66e-92	305	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036310313	30.269	631	724	670	83	9.66e-92	305	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036310312	30.269	631	724	670	83	9.66e-92	305	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036310311	30.269	631	724	670	83	9.66e-92	305	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_045443358	30.269	631	724	670	83	9.66e-92	305	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_005865273	30.269	631	724	670	83	1.93e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_005865272	30.269	631	724	670	83	1.93e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_014394312	30.269	631	724	670	83	1.93e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_005865271	30.269	631	724	670	83	1.93e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_080509947	30.269	631	724	670	83	1.97e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080509946	30.269	631	724	670	83	1.97e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_080509945	30.269	631	724	670	83	1.97e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_006771422	30.269	631	724	670	83	2.03e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_006771421	30.269	631	724	670	83	2.03e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_006771420	30.269	631	724	670	83	2.03e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_006771419	30.269	631	724	670	83	2.03e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_032960532	30.428	631	724	604	83	2.09e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X4 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_059535308	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059535307	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059535306	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_059535305	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_036159877	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_036159876	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_036159875	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_036159874	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_080971488	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_080971487	30.269	631	724	670	83	2.10e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Myotis nattereri]	109481
+XP_036156684.1	XP_036310310	30.269	631	724	711	83	2.66e-91	305	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_014386566	33.505	582	724	548	77	4.13e-91	300	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X3 [Myotis brandtii]	109478
+XP_036156684.1	XP_059535304	30.269	631	724	711	83	4.58e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_036159873	30.269	631	724	711	83	4.58e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_080509944	30.269	631	724	711	83	4.88e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080509943	30.269	631	724	711	83	4.88e-91	304	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_035872430	30.269	631	724	670	83	5.26e-91	303	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_028379102	30.269	631	724	670	83	5.26e-91	303	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_005865270	30.269	631	724	711	83	5.76e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_005865269	30.269	631	724	711	83	5.76e-91	304	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis brandtii]	109478
+XP_036156684.1	XP_006771418	30.269	631	724	711	83	6.46e-91	303	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis davidii]	225400
+XP_036156684.1	XP_006771417	30.269	631	724	711	83	6.46e-91	303	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Myotis davidii]	225400
+XP_036156684.1	XP_016053804	30.428	631	724	670	83	7.13e-91	302	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_016053796	30.428	631	724	670	83	7.13e-91	302	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_080982900	30.428	631	724	670	83	7.13e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080982899	30.428	631	724	670	83	7.13e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_036897850	30.269	631	724	670	83	7.59e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036897849	30.269	631	724	670	83	7.59e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036897845	30.269	631	724	670	83	7.59e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_032960522	30.428	631	724	670	83	9.96e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960512	30.428	631	724	670	83	9.96e-91	302	long-chain-fatty-acid--CoA ligase 4 isoform X3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_045673501	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673500	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673499	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673498	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673497	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673495	30.111	631	724	670	83	1.24e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_071076451	30.269	631	724	670	83	1.33e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_071076450	30.269	631	724	670	83	1.33e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053773059	30.269	631	724	670	83	1.33e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053773058	30.269	631	724	670	83	1.33e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_016053815	30.428	631	724	711	83	1.34e-90	303	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_016053788	30.428	631	724	711	83	1.34e-90	303	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_080982901	30.428	631	724	711	83	1.34e-90	303	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_080982898	30.428	631	724	711	83	1.34e-90	303	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_028379100	30.269	631	724	711	83	1.60e-90	303	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_028379099	30.269	631	724	711	83	1.60e-90	303	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035872429	30.269	631	724	711	83	1.60e-90	303	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_080899808	30.428	631	724	670	83	1.73e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform 2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_074180179	30.428	631	724	670	83	1.73e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019573473	30.428	631	724	670	83	1.73e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019573472	30.428	631	724	670	83	1.73e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_054436346	30.269	631	724	670	83	1.77e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_054436345	30.269	631	724	670	83	1.77e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_036897846	30.269	631	724	711	83	1.87e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_032960493	30.428	631	724	711	83	2.12e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032960486	30.428	631	724	711	83	2.12e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_053773057	30.269	631	724	691	83	2.21e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X4 [Desmodus rotundus]	9430
+XP_036156684.1	XP_014318621	33.333	582	724	548	77	2.23e-90	298	long-chain-fatty-acid--CoA ligase 3 isoform X4 [Myotis lucifugus]	59463
+XP_036156684.1	XP_045673494	30.111	631	724	711	83	2.33e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673493	30.111	631	724	711	83	2.33e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673492	30.111	631	724	711	83	2.33e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045673491	30.111	631	724	711	83	2.33e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_036897848	30.269	631	724	706	83	2.70e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X4 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_071076449	30.269	631	724	711	83	2.81e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053773055	30.269	631	724	711	83	2.81e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053773054	30.269	631	724	711	83	2.81e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036897847	30.269	631	724	707	83	2.85e-90	302	long-chain-fatty-acid--CoA ligase 4 isoform X3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_015419152	33.333	582	724	548	77	2.93e-90	297	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X3 [Myotis davidii]	225400
+XP_036156684.1	XP_053773056	30.269	631	724	692	83	2.97e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036127705	30.269	631	724	670	83	3.53e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036127704	30.269	631	724	670	83	3.53e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036127703	30.269	631	724	670	83	3.53e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_080899807	30.428	631	724	711	83	3.69e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_019573470	30.428	631	724	711	83	3.69e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019573468	30.428	631	724	711	83	3.69e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_036998362	30.111	631	724	670	83	4.58e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036998366	30.111	631	724	670	83	4.58e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036998364	30.111	631	724	670	83	4.58e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036998363	30.111	631	724	670	83	4.58e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036998361	30.111	631	724	670	83	4.58e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_011372630	30.428	631	724	670	83	5.08e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011372629	30.428	631	724	670	83	5.08e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_023375791	30.428	631	724	670	83	5.08e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011372628	30.428	631	724	670	83	5.08e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_011372627	30.428	631	724	670	83	5.08e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_036082296	30.269	631	724	670	83	6.14e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016017349	30.269	631	724	670	83	6.14e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016017341	30.269	631	724	670	83	6.14e-90	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_054436344	30.269	631	724	711	83	6.27e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_019488375	30.269	631	724	670	83	6.81e-90	300	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019488374	30.269	631	724	670	83	6.81e-90	300	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_036127702	30.269	631	724	711	83	7.03e-90	301	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_011372626	30.428	631	724	711	83	1.09e-89	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_036998360	30.111	631	724	711	83	1.17e-89	300	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_019488373	30.269	631	724	711	83	1.22e-89	300	PREDICTED: long-chain-fatty-acid--CoA ligase 4 isoform X1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_036082295	30.269	631	724	711	83	1.46e-89	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_016017334	30.269	631	724	711	83	1.46e-89	300	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_053773053	30.269	631	724	789	83	1.63e-89	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053773052	30.269	631	724	789	83	1.63e-89	302	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_066104775	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104774	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104773	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104772	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104771	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104770	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104769	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104768	30.269	631	724	670	83	1.69e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_014314926	30.000	630	724	713	83	2.13e-89	300	long-chain-fatty-acid--CoA ligase 4 [Myotis lucifugus]	59463
+XP_036156684.1	XP_066212164	30.269	631	724	711	83	2.96e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066104767	30.269	631	724	711	83	2.96e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104765	30.269	631	724	711	83	2.96e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104764	30.269	631	724	711	83	2.96e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066104763	30.269	631	724	711	83	2.96e-89	299	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_032960541	30.255	628	724	586	83	7.54e-89	295	long-chain-fatty-acid--CoA ligase 4 isoform X5 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_054578741	31.994	622	724	695	83	4.21e-87	293	fatty acid CoA ligase Acsl3 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_023385491	34.035	570	724	704	76	1.77e-86	291	long-chain-fatty-acid--CoA ligase 3 isoform X2 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_032960503	29.935	618	724	687	83	1.39e-85	289	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_039711780	33.505	582	724	704	77	2.38e-85	288	fatty acid CoA ligase Acsl3 isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_036176680	31.782	623	724	669	83	1.62e-84	285	long-chain-fatty-acid--CoA ligase 3 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_070278339	33.267	502	724	637	66	9.48e-77	264	fatty acid CoA ligase Acsl3 isoform X2 [Myotis yumanensis]	159337
+XP_036156684.1	XP_066212161	29.688	576	724	580	76	9.71e-77	262	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_014386565	34.433	485	724	593	64	3.20e-69	243	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X2 [Myotis brandtii]	109478
+XP_036156684.1	XP_015419151	34.227	485	724	593	64	9.10e-69	241	PREDICTED: long-chain-fatty-acid--CoA ligase 3 isoform X2 [Myotis davidii]	225400
+XP_036156684.1	XP_023617573	34.227	485	724	629	64	2.64e-68	241	long-chain-fatty-acid--CoA ligase 3 isoform X3 [Myotis lucifugus]	59463
+XP_036156684.1	XP_045431673	33.814	485	724	629	64	8.29e-68	239	fatty acid CoA ligase Acsl3 isoform X3 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_054578742	33.814	485	724	593	64	3.85e-67	237	fatty acid CoA ligase Acsl3 isoform X3 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_059535309	30.550	491	724	573	64	1.10e-64	229	long-chain-fatty-acid--CoA ligase 4 isoform X3 [Myotis daubentonii]	98922
+XP_036156684.1	XP_080906918	37.755	294	724	620	73	2.40e-53	199	fatty acid CoA ligase Acsl3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080906918	33.333	249	724	620	73	3.04e-22	107	fatty acid CoA ligase Acsl3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_036295370	26.567	670	724	733	87	1.17e-49	191	long-chain-fatty-acid--CoA ligase ACSBG1, partial [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_032955896	26.786	672	724	698	88	1.49e-49	190	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032955897	26.786	672	724	687	88	1.74e-49	190	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X5 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032955894	26.786	672	724	731	88	2.05e-49	190	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032955893	26.786	672	724	745	88	2.18e-49	190	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_032955895	26.786	672	724	725	88	3.39e-49	189	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_080897383	26.488	672	724	745	88	7.22e-49	189	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080897385	26.488	672	724	725	88	9.64e-49	188	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 4 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080897384	26.488	672	724	731	88	9.80e-49	188	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 3 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080897382	26.488	672	724	758	88	1.33e-48	188	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_039735625	34.138	290	724	334	39	2.80e-48	178	long-chain-fatty-acid--CoA ligase 4 [Pteropus medius]	143291
+XP_036156684.1	XP_070256579	27.365	687	724	738	89	5.25e-48	186	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_074173554	26.537	667	724	731	87	6.21e-48	186	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_019606760	26.537	667	724	725	87	1.09e-47	185	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074173553	26.537	667	724	758	87	1.20e-47	185	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_074173552	26.537	667	724	758	87	1.20e-47	185	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_016065077	26.126	666	724	698	87	1.22e-47	184	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_016065076	26.126	666	724	698	87	1.22e-47	184	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_016065075	26.126	666	724	729	87	1.40e-47	185	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_016065074	26.126	666	724	729	87	1.40e-47	185	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_080980848	25.976	666	724	698	87	1.96e-47	184	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 3 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_079619992	26.767	665	724	695	87	2.10e-47	184	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_079619991	26.767	665	724	728	87	2.43e-47	184	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_080980847	26.687	667	724	742	87	3.18e-47	184	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_059534249	26.975	671	724	703	87	3.54e-47	183	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_066210891	26.156	692	724	730	91	4.10e-47	183	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_066210890	26.156	692	724	730	91	4.10e-47	183	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_059534248	26.975	671	724	726	87	4.21e-47	183	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_019495654	26.198	668	724	731	87	5.78e-47	183	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_066210892	26.156	692	724	724	91	6.90e-47	182	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_019495653	26.198	668	724	745	87	7.54e-47	183	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019495655	26.198	668	724	722	87	7.66e-47	182	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Hipposideros armiger]	186990
+XP_036156684.1	XP_066094542	26.156	692	724	730	91	8.37e-47	182	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_066094541	26.156	692	724	730	91	8.37e-47	182	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_019495656	26.198	668	724	725	87	8.68e-47	182	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Hipposideros armiger]	186990
+XP_036156684.1	XP_019495657	26.198	668	724	708	87	9.08e-47	182	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 isoform X5 [Hipposideros armiger]	186990
+XP_036156684.1	XP_080980846	26.687	667	724	807	87	1.06e-46	183	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_066094544	26.156	692	724	724	91	1.08e-46	182	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_080971000	26.906	669	724	705	87	1.59e-46	181	long-chain-fatty-acid--CoA ligase ACSBG1 [Myotis nattereri]	109481
+XP_036156684.1	XP_036087728	25.943	663	724	715	87	2.89e-46	181	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_080507921	26.946	668	724	729	87	6.33e-46	180	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 1 [Plecotus auritus]	61862
+XP_036156684.1	XP_080507922	27.096	668	724	706	87	7.10e-46	179	long-chain-fatty-acid--CoA ligase ACSBG1 isoform 2 [Plecotus auritus]	61862
+XP_036156684.1	XP_036211337	26.837	667	724	695	87	9.62e-46	179	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Myotis myotis]	51298
+XP_036156684.1	XP_036211334	26.837	667	724	728	87	1.05e-45	179	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Myotis myotis]	51298
+XP_036156684.1	XP_036211335	26.837	667	724	705	87	1.56e-45	179	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Myotis myotis]	51298
+XP_036156684.1	XP_054569365	26.618	680	724	728	89	2.72e-45	178	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_054569367	26.617	665	724	695	87	2.82e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_028358158	26.826	671	724	716	87	3.41e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_054569366	26.617	665	724	705	87	3.43e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_035869169	26.826	671	724	730	87	3.71e-45	178	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_035869168	26.826	671	724	730	87	3.71e-45	178	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_053514838	26.597	673	724	727	87	4.80e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053514837	26.597	673	724	730	87	5.52e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053514839	26.597	673	724	716	87	5.53e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_035869167	26.826	671	724	749	87	6.39e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_053514836	26.597	673	724	749	87	9.05e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053514835	26.597	673	724	749	87	9.05e-45	177	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_036133781	25.893	672	724	722	87	1.62e-44	176	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Molossus molossus]	27622
+XP_036156684.1	XP_036133782	26.222	675	724	716	87	1.75e-44	176	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X5 [Molossus molossus]	27622
+XP_036156684.1	XP_036133777	26.222	675	724	748	87	3.50e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Molossus molossus]	27622
+XP_036156684.1	XP_036133780	26.222	675	724	747	87	3.68e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Molossus molossus]	27622
+XP_036156684.1	XP_036133779	26.222	675	724	747	87	3.68e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Molossus molossus]	27622
+XP_036156684.1	XP_036133776	26.222	675	724	749	87	3.88e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036133775	26.222	675	724	749	87	3.88e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036133774	26.222	675	724	749	87	3.88e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036133773	26.222	675	724	749	87	3.88e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_036133772	26.222	675	724	749	87	3.88e-44	175	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Molossus molossus]	27622
+XP_036156684.1	XP_054444306	25.260	673	724	708	87	1.98e-43	172	long-chain-fatty-acid--CoA ligase ACSBG1 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_045052387	26.332	638	724	617	83	5.65e-43	170	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X6 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045052386	26.332	638	724	617	83	5.65e-43	170	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X6 [Desmodus rotundus]	9430
+XP_036156684.1	XP_036909323	25.375	666	724	726	87	7.30e-43	171	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036909322	25.375	666	724	726	87	7.30e-43	171	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_016001290	26.276	666	724	651	87	9.54e-43	170	long-chain-fatty-acid--CoA ligase ACSBG2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_036909321	25.526	666	724	745	87	1.15e-42	171	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036909324	25.526	666	724	712	87	1.18e-42	170	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_045052385	26.332	638	724	667	83	1.49e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X5 [Desmodus rotundus]	9430
+XP_036156684.1	XP_053768500	25.938	640	724	730	83	1.96e-42	170	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045052381	25.938	640	724	730	83	1.96e-42	170	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045681042	26.398	644	724	697	83	2.13e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X5 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045681040	26.398	644	724	730	83	2.21e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045681039	26.398	644	724	730	83	2.21e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X3 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045052383	25.938	640	724	707	83	2.22e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Desmodus rotundus]	9430
+XP_036156684.1	XP_024417554	26.250	640	724	754	83	3.47e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045681041	26.398	644	724	716	83	4.41e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045681038	26.398	644	724	749	83	4.42e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_045681037	26.398	644	724	749	83	4.42e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_036087729	26.493	536	724	608	72	5.42e-42	167	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Rousettus aegyptiacus]	9407
+XP_036156684.1	XP_045681036	26.365	641	724	756	83	5.91e-42	169	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X1 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_015448996	27.708	480	724	553	63	2.10e-40	161	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG1 [Pteropus alecto]	9402
+XP_036156684.1	XP_014401743	26.923	598	724	688	78	1.30e-38	158	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG1 [Myotis brandtii]	109478
+XP_036156684.1	XP_080992604	26.308	650	724	594	87	2.33e-38	156	long-chain-fatty-acid--CoA ligase ACSBG2 isoform 2 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_039734488	26.048	668	724	651	87	4.66e-38	156	long-chain-fatty-acid--CoA ligase ACSBG2 [Pteropus medius]	143291
+XP_036156684.1	XP_036097309	26.126	666	724	658	87	5.59e-38	155	long-chain-fatty-acid--CoA ligase ACSBG2 [Molossus molossus]	27622
+XP_036156684.1	XP_028014929	25.862	638	724	658	83	1.04e-37	155	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_028014928	25.862	638	724	658	83	1.04e-37	155	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X1 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_032990722	25.744	672	724	672	88	1.08e-37	155	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG2 [Rhinolophus ferrumequinum]	59479
+XP_036156684.1	XP_080992603	26.617	665	724	622	87	1.34e-37	154	long-chain-fatty-acid--CoA ligase ACSBG2 isoform 1 [Miniopterus schreibersii]	9433
+XP_036156684.1	XP_016053395	26.617	665	724	651	87	1.98e-37	154	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG2 [Miniopterus natalensis]	291302
+XP_036156684.1	XP_037021048	25.225	666	724	752	87	2.55e-37	154	long-chain-fatty-acid--CoA ligase ACSBG2 [Artibeus jamaicensis]	9417
+XP_036156684.1	XP_053767193	25.787	667	724	654	87	3.14e-37	153	long-chain-fatty-acid--CoA ligase ACSBG2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_045687312	25.487	667	724	735	87	3.17e-37	154	long-chain-fatty-acid--CoA ligase ACSBG2 [Phyllostomus hastatus]	9423
+XP_036156684.1	XP_024898954	26.048	668	724	651	87	3.33e-37	153	long-chain-fatty-acid--CoA ligase ACSBG2 [Pteropus alecto]	9402
+XP_036156684.1	XP_066201066	28.810	479	724	484	62	4.69e-37	150	long-chain-fatty-acid--CoA ligase ACSBG2 [Saccopteryx leptura]	249018
+XP_036156684.1	XP_045052380	25.705	638	724	732	83	6.95e-37	153	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X2 [Desmodus rotundus]	9430
+XP_036156684.1	XP_006101168	24.697	660	724	680	87	7.29e-37	152	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis lucifugus]	59463
+XP_036156684.1	XP_066109462	29.253	482	724	484	62	8.72e-37	149	long-chain-fatty-acid--CoA ligase ACSBG2 [Saccopteryx bilineata]	59482
+XP_036156684.1	XP_054418102	26.158	669	724	757	87	9.25e-37	153	long-chain-fatty-acid--CoA ligase ACSBG2 [Pteronotus mesoamericanus]	1884717
+XP_036156684.1	XP_035890365	25.637	667	724	757	87	1.01e-36	153	long-chain-fatty-acid--CoA ligase ACSBG2 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_023375799	26.758	512	724	696	68	1.90e-36	151	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG1 [Pteropus vampyrus]	132908
+XP_036156684.1	XP_036898665	24.474	666	724	751	87	7.99e-36	150	long-chain-fatty-acid--CoA ligase ACSBG2 [Sturnira hondurensis]	192404
+XP_036156684.1	XP_036315525	24.585	663	724	658	87	1.12e-34	145	long-chain-fatty-acid--CoA ligase ACSBG2 [Pipistrellus kuhlii]	59472
+XP_036156684.1	XP_036171103	24.850	668	724	658	87	2.08e-34	145	long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis myotis]	51298
+XP_036156684.1	XP_006110085	28.151	476	724	443	61	1.02e-33	140	LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG1, partial [Myotis lucifugus]	59463
+XP_036156684.1	XP_019508875	25.753	664	724	651	87	1.88e-33	142	PREDICTED: long-chain-fatty-acid--CoA ligase ACSBG2 [Hipposideros armiger]	186990
+XP_036156684.1	XP_074194806	24.738	667	724	797	87	5.54e-33	141	long-chain-fatty-acid--CoA ligase ACSBG2 [Rhinolophus sinicus]	89399
+XP_036156684.1	XP_079629200	25.646	503	724	675	67	1.24e-32	140	long-chain-fatty-acid--CoA ligase ACSBG2 [Cnephaeus nilssonii]	3371016
+XP_036156684.1	XP_005884461	25.150	668	724	688	87	4.08e-32	138	PREDICTED: LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis brandtii]	109478
+XP_036156684.1	XP_080531552	25.746	637	724	660	83	4.82e-32	138	long-chain-fatty-acid--CoA ligase ACSBG2 [Plecotus auritus]	61862
+XP_036156684.1	XP_070272031	24.701	668	724	658	87	7.03e-32	137	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X1 [Myotis yumanensis]	159337
+XP_036156684.1	XP_080933526	24.625	666	724	838	87	7.61e-32	138	long-chain-fatty-acid--CoA ligase ACSBG2 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_070272032	24.701	668	724	654	87	7.86e-32	137	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X2 [Myotis yumanensis]	159337
+XP_036156684.1	XP_059551240	24.551	668	724	658	87	4.39e-31	135	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X1 [Myotis daubentonii]	98922
+XP_036156684.1	XP_035869170	24.585	663	724	672	87	3.45e-30	132	long-chain-fatty-acid--CoA ligase ACSBG1 isoform X4 [Phyllostomus discolor]	89673
+XP_036156684.1	XP_024906194	34.978	223	724	338	30	4.72e-30	127	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus alecto]	9402
+XP_036156684.1	XP_024906193	34.978	223	724	338	30	4.72e-30	127	long-chain-fatty-acid--CoA ligase 4 isoform X2 [Pteropus alecto]	9402
+XP_036156684.1	XP_024906192	34.978	223	724	379	30	9.22e-30	127	long-chain-fatty-acid--CoA ligase 4 isoform X1 [Pteropus alecto]	9402
+XP_036156684.1	XP_039735624	34.529	223	724	338	30	1.63e-29	125	long-chain-fatty-acid--CoA ligase 4-like isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735623	34.529	223	724	338	30	1.63e-29	125	long-chain-fatty-acid--CoA ligase 4-like isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735621	34.529	223	724	338	30	1.63e-29	125	long-chain-fatty-acid--CoA ligase 4-like isoform X2 [Pteropus medius]	143291
+XP_036156684.1	XP_039735620	34.529	223	724	379	30	3.24e-29	125	long-chain-fatty-acid--CoA ligase 4-like isoform X1 [Pteropus medius]	143291
+XP_036156684.1	XP_080936682	29.363	361	724	352	46	1.92e-28	122	long-chain-fatty-acid--CoA ligase ACSBG1 [Rhinolophus hipposideros]	77218
+XP_036156684.1	XP_080948845	25.849	530	724	744	71	7.12e-28	125	long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis nattereri]	109481
+XP_036156684.1	XP_015453230	33.889	180	724	184	24	4.49e-26	110	long-chain-fatty-acid--CoA ligase 4 [Pteropus alecto]	9402
+XP_036156684.1	XP_059551242	26.042	480	724	482	62	3.50e-24	112	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X2 [Myotis daubentonii]	98922
+XP_036156684.1	XP_019523363	35.638	188	724	545	26	3.39e-22	106	PREDICTED: long-chain-fatty-acid--CoA ligase 3 [Hipposideros armiger]	186990
+XP_036156684.1	XP_028014930	26.952	397	724	599	50	6.08e-20	100	long-chain-fatty-acid--CoA ligase ACSBG2 isoform X2 [Eptesicus fuscus]	29078
+XP_036156684.1	XP_015421670	27.302	315	724	540	39	8.05e-15	83.6	PREDICTED: LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG1, partial [Myotis davidii]	225400
+XP_036156684.1	XP_006764319	25.926	243	724	634	59	2.16e-11	73.2	PREDICTED: LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis davidii]	225400
+XP_036156684.1	XP_006764319	31.100	209	724	634	59	5.35e-11	71.6	PREDICTED: LOW QUALITY PROTEIN: long-chain-fatty-acid--CoA ligase ACSBG2 [Myotis davidii]	225400

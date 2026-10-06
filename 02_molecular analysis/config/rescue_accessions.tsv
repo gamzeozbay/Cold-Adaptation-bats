@@ -1,0 +1,3 @@
+gene	species	accession	reason
+COX7A1	Cnephaeus nilssonii	XP_079655889	RESCUE_LEN_RATIO_annotation_correct_pident73_qcov95
+CREB3L1	Cnephaeus nilssonii	XP_079645639	RESCUE_LOW_QUALITY_LABEL_pident97.5_qcov100_ratio1.0

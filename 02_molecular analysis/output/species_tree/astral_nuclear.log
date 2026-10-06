@@ -1,0 +1,59 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.7.8
+Gene trees are treated as unrooted
+33 trees read from /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/astral/nuclear_gene_trees.tre
+index0
+All output trees will be *arbitrarily* rooted at Artibeus_jamaicensis
+
+======== Running the main analysis
+Number of taxa: 30 (30 species)
+Taxa: [Artibeus_jamaicensis, Cnephaeus_nilssonii, Eptesicus_fuscus, Pipistrellus_kuhlii, Plecotus_auritus, Myotis_brandtii, Myotis_lucifugus, Myotis_yumanensis, Myotis_daubentonii, Myotis_myotis, Myotis_nattereri, Myotis_davidii, Miniopterus_natalensis, Miniopterus_schreibersii, Molossus_molossus, Pteropus_alecto, Pteropus_medius, Pteropus_vampyrus, Rousettus_aegyptiacus, Rhinolophus_ferrumequinum, Rhinolophus_hipposideros, Rhinolophus_sinicus, Saccopteryx_bilineata, Saccopteryx_leptura, Pteronotus_mesoamericanus, Desmodus_rotundus, Phyllostomus_discolor, Phyllostomus_hastatus, Sturnira_hondurensis, Hipposideros_armiger]
+Taxon occupancy: {Rousettus_aegyptiacus=32, Myotis_myotis=33, Pteropus_vampyrus=31, Pteropus_medius=30, Artibeus_jamaicensis=32, Miniopterus_schreibersii=33, Hipposideros_armiger=30, Eptesicus_fuscus=33, Myotis_yumanensis=32, Myotis_brandtii=27, Miniopterus_natalensis=31, Saccopteryx_bilineata=32, Sturnira_hondurensis=32, Myotis_nattereri=32, Myotis_daubentonii=33, Phyllostomus_hastatus=32, Myotis_lucifugus=29, Molossus_molossus=33, Pipistrellus_kuhlii=33, Myotis_davidii=31, Pteronotus_mesoamericanus=31, Rhinolophus_sinicus=32, Saccopteryx_leptura=32, Rhinolophus_ferrumequinum=33, Phyllostomus_discolor=31, Plecotus_auritus=33, Cnephaeus_nilssonii=32, Rhinolophus_hipposideros=33, Desmodus_rotundus=31, Pteropus_alecto=32}
+Number of gene trees: 33
+18 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 259
+Number of Clusters after addition by distance: 259
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:800
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 259
+gradient0 in heuristiic: 259
+partitions formed in 0.334 secs
+Dynamic Programming starting after 0.334 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 776433
+Polytree building time: 0.031 seconds.
+Number of quartet trees in the gene trees: 776433
+Size of largest cluster: 30
+Greedy score: 726352
+estimationFactor: 1.068948664008635
+Sub-optimal score: 728052
+Total Number of elements weighted: 270
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9376881199021679
+Optimization score: 728052
+Optimal tree inferred in 0.554 secs.
+(Plecotus_auritus,((Pipistrellus_kuhlii,(Cnephaeus_nilssonii,Eptesicus_fuscus)),(((Myotis_brandtii,(Myotis_lucifugus,Myotis_yumanensis)),(Myotis_davidii,(Myotis_daubentonii,(Myotis_myotis,Myotis_nattereri)))),((Miniopterus_natalensis,Miniopterus_schreibersii),(Molossus_molossus,((Saccopteryx_bilineata,Saccopteryx_leptura),((Pteronotus_mesoamericanus,(Desmodus_rotundus,((Phyllostomus_discolor,Phyllostomus_hastatus),(Artibeus_jamaicensis,Sturnira_hondurensis)))),((Rousettus_aegyptiacus,(Pteropus_alecto,(Pteropus_medius,Pteropus_vampyrus))),(Hipposideros_armiger,(Rhinolophus_ferrumequinum,(Rhinolophus_hipposideros,Rhinolophus_sinicus)))))))))));
+Final quartet score is: 728052
+Final normalized quartet score is: 0.9376881199021679
+Extended species tree:
+(Artibeus_jamaicensis,(Sturnira_hondurensis,((Phyllostomus_discolor,Phyllostomus_hastatus)1:3.0602707946915624,(Desmodus_rotundus,(Pteronotus_mesoamericanus,(((Rousettus_aegyptiacus,(Pteropus_alecto,(Pteropus_medius,Pteropus_vampyrus)1:0.8472978603872037)1:3.0602707946915624)1:3.091042453358317,(Hipposideros_armiger,(Rhinolophus_ferrumequinum,(Rhinolophus_hipposideros,Rhinolophus_sinicus)0.92:0.2578291093020998)1:2.335374915817036)1:3.0285220963769826)1:3.091042453358317,((Saccopteryx_bilineata,Saccopteryx_leptura)1:3.091042453358317,(Molossus_molossus,((Miniopterus_natalensis,Miniopterus_schreibersii)1:3.0602707946915624,(((Myotis_brandtii,(Myotis_lucifugus,Myotis_yumanensis)0.98:0.44135803116877076)1:0.7866732385707687,(Myotis_davidii,(Myotis_daubentonii,(Myotis_myotis,Myotis_nattereri)1:0.46016664948436004)1:1.173298275473255)1:0.7248958788745258)1:2.0549754895254306,((Pipistrellus_kuhlii,(Cnephaeus_nilssonii,Eptesicus_fuscus)1:1.4739416681786457)1:0.9753358116903494,Plecotus_auritus)1:1.1467447744185706)1:2.668910292764941)1:0.44049674673629724)1:1.2414634132414353)0.68:0.12337902116050466)1:3.0602707946915624)1:3.0285220963769826)1:1.9616585060234524)1:1.9924301646902058));
+Weight calculation took 0.111704101 secs
+ASTRAL finished in 1.018 secs

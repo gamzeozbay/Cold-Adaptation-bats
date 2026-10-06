@@ -1,0 +1,323 @@
+IQ-TREE 2.3.6 built Aug  1 2024
+
+Input file name: /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/11_codon_alignments_gblocks_final/species_fasta_by_gene/FGFR1/FGFR1.codon.gblocks.species.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 830999
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 30 sequences with 2466 nucleotide sites
+Number of constant sites: 2058 (= 83.455% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 2058 (= 83.455% of all sites)
+Number of parsimony informative sites: 285
+Number of distinct site patterns: 329
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TN+F+R3
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TN+F+R3           -7853.381   15838.761 -   0.0349   15842.448 -   0.0386   16222.244 +    0.541
+TIM+F+R3          -7849.738   15833.475 +    0.491   15837.275 +    0.512   16222.769 +    0.416
+TIM2+F+R3         -7853.244   15840.487 -   0.0147   15844.287 -   0.0154   16229.781 -   0.0125
+TIM3+F+R3         -7853.394   15840.787 -   0.0127   15844.587 -   0.0132   16230.081 -   0.0107
+TN+F+I+R3         -7853.397   15840.795 -   0.0126   15844.595 -   0.0132   16230.089 -   0.0107
+TIM+F+I+R3        -7849.742   15835.484 +     0.18   15839.399 +    0.177   16230.588 -  0.00834
+GTR+F+R3          -7848.877   15835.753 +    0.157   15839.785 +    0.146   16236.667 - 0.000399
+TIM2+F+I+R3       -7853.252   15842.505 -  0.00537   15846.420 -  0.00529   16237.609 - 0.000249
+TIM3+F+I+R3       -7853.392   15842.785 -  0.00467   15846.699 -   0.0046   16237.889 - 0.000217
+GTR+F+I+R3        -7848.867   15837.734 +   0.0584   15841.885 +   0.0511   16244.459 - 8.11e-06
+GTR+F+R4          -7848.941   15839.883 -   0.0199   15844.154 -   0.0164   16252.418 - 1.52e-07
+HKY+F+R3          -7873.349   15876.699 - 2.02e-10   15880.274 - 2.36e-10   16254.372 - 5.71e-08
+K3Pu+F+R3         -7869.765   15871.530 - 2.68e-09   15875.216 - 2.96e-09   16255.013 - 4.14e-08
+GTR+F+I+R4        -7848.729   15841.458 -  0.00907   15845.851 -  0.00703   16259.803 - 3.78e-09
+GTR+F+I+G4        -7869.226   15872.452 - 1.69e-09   15876.252 - 1.76e-09   16261.746 - 1.43e-09
+TPM2u+F+R3        -7873.285   15878.570 - 7.92e-11   15882.257 - 8.74e-11   16262.053 - 1.23e-09
+TPM3u+F+R3        -7873.332   15878.664 - 7.55e-11   15882.351 - 8.34e-11   16262.148 - 1.17e-09
+HKY+F+I+R3        -7873.349   15878.699 - 7.43e-11   15882.385 -  8.2e-11   16262.182 - 1.15e-09
+K3Pu+F+I+R3       -7869.767   15873.534 - 9.82e-10   15877.333 - 1.03e-09   16262.827 - 8.33e-10
+TVM+F+R3          -7868.826   15873.652 - 9.26e-10   15877.567 - 9.12e-10   16268.756 -  4.3e-11
+TPM2u+F+I+R3      -7873.282   15880.565 - 2.92e-11   15884.365 - 3.05e-11   16269.858 - 2.48e-11
+TPM3u+F+I+R3      -7873.332   15880.664 - 2.78e-11   15884.464 -  2.9e-11   16269.958 - 2.36e-11
+TVM+F+I+R3        -7868.826   15875.651 - 3.41e-10   15879.683 - 3.17e-10   16276.566 - 8.66e-13
+TNe+R3            -7892.843   15911.687 -  5.1e-18   15915.044 - 6.64e-18   16277.739 - 4.81e-13
+TIMe+R3           -7890.009   15908.018 - 3.19e-17   15911.483 - 3.94e-17   16279.880 - 1.65e-13
+TIM3e+R3          -7891.653   15911.305 - 6.17e-18   15914.771 - 7.61e-18   16283.168 - 3.19e-14
+TIM2e+R3          -7891.965   15911.929 - 4.52e-18   15915.395 - 5.57e-18   16283.792 - 2.33e-14
+TNe+I+R3          -7892.848   15913.696 - 1.87e-18   15917.162 -  2.3e-18   16285.559 - 9.65e-15
+TIMe+I+R3         -7890.018   15910.036 - 1.16e-17   15913.611 - 1.36e-17   16287.709 - 3.29e-15
+SYM+R3            -7886.392   15904.784 - 1.61e-16   15908.471 - 1.78e-16   16288.268 - 2.49e-15
+TIM3e+I+R3        -7891.665   15913.330 - 2.24e-18   15916.905 - 2.62e-18   16291.003 - 6.34e-16
+TIM2e+I+R3        -7891.968   15913.937 - 1.66e-18   15917.512 - 1.93e-18   16291.610 - 4.68e-16
+SYM+I+R3          -7886.402   15906.803 - 5.86e-17   15910.603 - 6.12e-17   16296.097 - 4.97e-17
+GTR+F+I           -7891.274   15914.549 - 1.22e-18   15918.236 - 1.35e-18   16298.032 - 1.89e-17
+K2P+R3            -7907.930   15939.860 - 3.89e-24   15943.111 - 5.34e-24   16300.102 - 6.71e-18
+K3P+R3            -7905.018   15936.036 - 2.63e-23   15939.393 - 3.43e-23   16302.088 - 2.48e-18
+TPM3+R3           -7906.565   15939.130 -  5.6e-24   15942.488 - 7.29e-24   16305.183 - 5.29e-19
+GTR+F+R2          -7891.275   15916.549 - 4.48e-19   15920.349 - 4.68e-19   16305.843 -  3.8e-19
+TPM2+R3           -7906.923   15939.846 - 3.92e-24   15943.203 -  5.1e-24   16305.898 -  3.7e-19
+K2P+I+R3          -7907.927   15941.854 - 1.43e-24   15945.212 - 1.87e-24   16307.907 - 1.35e-19
+GTR+F+G4          -7897.186   15926.372 -  3.3e-21   15930.058 - 3.65e-21   16309.855 - 5.11e-20
+K3P+I+R3          -7905.039   15938.077 - 9.48e-24   15941.542 - 1.17e-23   16309.940 -  4.9e-20
+TVMe+R3           -7901.242   15932.484 - 1.55e-22   15936.059 - 1.81e-22   16310.157 -  4.4e-20
+TPM3+I+R3         -7906.613   15941.226 - 1.96e-24   15944.691 - 2.42e-24   16313.089 - 1.01e-20
+GTR+F+I+R2        -7891.275   15918.551 - 1.65e-19   15922.465 - 1.62e-19   16313.654 - 7.65e-21
+TPM2+I+R3         -7906.946   15941.892 - 1.41e-24   15945.357 - 1.74e-24   16313.754 - 7.28e-21
+TVMe+I+R3         -7901.240   15934.479 - 5.73e-23   15938.166 - 6.33e-23   16317.963 - 8.87e-22
+GTR+F             -8296.417   16722.834 - 3.71e-194   16726.409 - 4.33e-194   17100.507 - 1.05e-191
+F81+F+R3          -8301.272   16730.544 - 7.85e-196   16734.009 - 9.68e-196   17102.406 - 4.06e-192
+F81+F+I+R3        -8301.264   16732.528 - 2.91e-196   16736.103 - 3.4e-196   17110.201 - 8.24e-194
+JC+R3             -8324.204   16770.407 - 1.73e-204   16773.554 - 2.51e-204   17124.839 - 5.46e-197
+JC+I+R3           -8324.236   16772.473 - 6.17e-205   16775.724 - 8.47e-205   17132.714 - 1.06e-198
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TN+F+R3
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 7.2093
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 15.4312
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2299
+  pi(C) = 0.2879
+  pi(G) = 0.2803
+  pi(T) = 0.2019
+
+Rate matrix Q:
+
+  A   -0.7791   0.08934    0.6271   0.06264
+  C   0.07134    -1.125   0.08698    0.9666
+  G    0.5143   0.08934   -0.6663   0.06264
+  T   0.07134     1.379   0.08698    -1.537
+
+Model of rate heterogeneity: FreeRate with 3 categories
+Site proportion and rates:  (0.75,1.564e-15) (0.2333,2.935) (0.01678,18.79)
+
+ Category  Relative_rate  Proportion
+  1         1.564e-15      0.75
+  2         2.935          0.2333
+  3         18.79          0.01678
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -7853.0956 (s.e. 208.4096)
+Unconstrained log-likelihood (without tree): -6305.4582
+Number of free parameters (#branches + #model parameters): 66
+Akaike information criterion (AIC) score: 15838.1912
+Corrected Akaike information criterion (AICc) score: 15841.8778
+Bayesian information criterion (BIC) score: 16221.6745
+
+Total tree length (sum of branch lengths): 0.3724
+Sum of internal branch lengths: 0.1799 (48.3114% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Artibeus_jamaicensis' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++----------Artibeus_jamaicensis
+|
+|                                                  +--Cnephaeus_nilssonii
+|                                               +--| (95.5/99)
+|                                               |  +--Eptesicus_fuscus
+|                                            +--| (75.7/81)
+|                                            |  +--Plecotus_auritus
+|                                         +--| (89.9/97)
+|                                         |  +---------------Pipistrellus_kuhlii
+|                                +--------| (99.9/100)
+|                                |        |        +--Myotis_brandtii
+|                                |        |     +--| (86.1/90)
+|                                |        |     |  |  +--Myotis_lucifugus
+|                                |        |     |  +--| (39.7/77)
+|                                |        |     |     +--Myotis_yumanensis
+|                                |        |  +--| (81.1/92)
+|                                |        |  |  |  +--Myotis_daubentonii
+|                                |        |  |  +--| (47.8/74)
+|                                |        |  |     |  +--Myotis_myotis
+|                                |        |  |     +--| (92.8/99)
+|                                |        |  |        +--Myotis_nattereri
+|                                |        +--| (97.5/100)
+|                                |           +--Myotis_davidii
+|                             +--| (79/71)
+|                             |  +-----------------Molossus_molossus
+|                          +--| (84.6/54)
+|                          |  |       +--Miniopterus_natalensis
+|                          |  +-------| (99.9/100)
+|                          |          +--Miniopterus_schreibersii
+|                       +--| (22.9/32)
+|                       |  |                          +--Saccopteryx_bilineata
+|                       |  +--------------------------| (100/100)
+|                       |                             +---Saccopteryx_leptura
+|              +--------| (99.7/100)
+|              |        |                +----------Hipposideros_armiger
+|              |        |         +------| (98.3/100)
+|              |        |         |      |         +-------Rhinolophus_ferrumequinum
+|              |        |         |      |      +--| (33/85)
+|              |        |         |      |      |  +--Rhinolophus_hipposideros
+|              |        |         |      +------| (98.9/100)
+|              |        |         |             +----Rhinolophus_sinicus
+|              |        +---------| (99.6/100)
+|              |                  |                     +**Pteropus_alecto
+|              |                  |                +----| (98.7/100)
+|              |                  |                |    |  +--Pteropus_medius
+|              |                  |                |    +--| (86/96)
+|              |                  |                |       +**Pteropus_vampyrus
+|              |                  +----------------| (100/100)
+|              |                                   +------Rousettus_aegyptiacus
+|     +--------| (99.6/100)
+|     |        +-----------Pteronotus_mesoamericanus
+|  +--| (70.6/87)
+|  |  +-----Desmodus_rotundus
++--| (70.5/85)
+|  |               +--Phyllostomus_discolor
+|  +---------------| (100/100)
+|                  +---Phyllostomus_hastatus
+|
++---------------Sturnira_hondurensis
+
+Tree in newick format:
+
+(Artibeus_jamaicensis:0.0140135880,(((((((((((Cnephaeus_nilssonii:0.0016897035,Eptesicus_fuscus:0.0024867000)95.5/99:0.0024404353,Plecotus_auritus:0.0043386123)75.7/81:0.0004462464,Pipistrellus_kuhlii:0.0203085367)89.9/97:0.0020026274,(((Myotis_brandtii:0.0020366170,(Myotis_lucifugus:0.0027873735,Myotis_yumanensis:0.0035917935)39.7/77:0.0008279133)86.1/90:0.0010195798,(Myotis_daubentonii:0.0045652782,(Myotis_myotis:0.0011622234,Myotis_nattereri:0.0017247817)92.8/99:0.0014091872)47.8/74:0.0004061352)81.1/92:0.0009719717,Myotis_davidii:0.0021248555)97.5/100:0.0039556316)99.9/100:0.0109060219,Molossus_molossus:0.0219479399)79/71:0.0016930707,(Miniopterus_natalensis:0.0008159069,Miniopterus_schreibersii:0.0008300122)99.9/100:0.0105519965)84.6/54:0.0018697196,(Saccopteryx_bilineata:0.0033248741,Saccopteryx_leptura:0.0059499056)100/100:0.0332958164)22.9/32:0.0006229870,((Hipposideros_armiger:0.0136977275,((Rhinolophus_ferrumequinum:0.0104271541,Rhinolophus_hipposideros:0.0045509660)33/85:0.0007379849,Rhinolophus_sinicus:0.0068242975)98.9/100:0.0090944495)98.3/100:0.0087245913,((Pteropus_alecto:0.0003900866,(Pteropus_medius:0.0012098889,Pteropus_vampyrus:0.0003996579)86/96:0.0008219716)98.7/100:0.0064096297,Rousettus_aegyptiacus:0.0093792901)100/100:0.0207089454)99.6/100:0.0119842140)99.7/100:0.0113202882,Pteronotus_mesoamericanus:0.0150588889)99.6/100:0.0111135719,Desmodus_rotundus:0.0076874014)70.6/87:0.0026383188,(Phyllostomus_discolor:0.0035854644,Phyllostomus_hastatus:0.0055910121)100/100:0.0194054515)70.5/85:0.0045557431,Sturnira_hondurensis:0.0200121282);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -7853.095620
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++----------Artibeus_jamaicensis
+|
+|                                                  +--Cnephaeus_nilssonii
+|                                               +--| (99)
+|                                               |  +--Eptesicus_fuscus
+|                                            +--| (81)
+|                                            |  +--Plecotus_auritus
+|                                         +--| (97)
+|                                         |  +---------------Pipistrellus_kuhlii
+|                                +--------| (100)
+|                                |        |        +--Myotis_brandtii
+|                                |        |     +--| (90)
+|                                |        |     |  |  +--Myotis_lucifugus
+|                                |        |     |  +--| (77)
+|                                |        |     |     +--Myotis_yumanensis
+|                                |        |  +--| (92)
+|                                |        |  |  |  +--Myotis_daubentonii
+|                                |        |  |  +--| (74)
+|                                |        |  |     |  +--Myotis_myotis
+|                                |        |  |     +--| (99)
+|                                |        |  |        +--Myotis_nattereri
+|                                |        +--| (100)
+|                                |           +--Myotis_davidii
+|                             +--| (71)
+|                             |  +-----------------Molossus_molossus
+|                          +--| (54)
+|                          |  |       +--Miniopterus_natalensis
+|                          |  +-------| (100)
+|                          |          +--Miniopterus_schreibersii
+|                       +--| (32)
+|                       |  |                          +--Saccopteryx_bilineata
+|                       |  +--------------------------| (100)
+|                       |                             +---Saccopteryx_leptura
+|              +--------| (100)
+|              |        |                +----------Hipposideros_armiger
+|              |        |         +------| (100)
+|              |        |         |      |         +-------Rhinolophus_ferrumequinum
+|              |        |         |      |      +--| (85)
+|              |        |         |      |      |  +--Rhinolophus_hipposideros
+|              |        |         |      +------| (100)
+|              |        |         |             +----Rhinolophus_sinicus
+|              |        +---------| (100)
+|              |                  |                     +--Pteropus_alecto
+|              |                  |                +----| (100)
+|              |                  |                |    |  +--Pteropus_medius
+|              |                  |                |    +--| (96)
+|              |                  |                |       +--Pteropus_vampyrus
+|              |                  +----------------| (100)
+|              |                                   +------Rousettus_aegyptiacus
+|     +--------| (100)
+|     |        +-----------Pteronotus_mesoamericanus
+|  +--| (87)
+|  |  +-----Desmodus_rotundus
++--| (85)
+|  |               +--Phyllostomus_discolor
+|  +---------------| (100)
+|                  +---Phyllostomus_hastatus
+|
++---------------Sturnira_hondurensis
+
+
+Consensus tree in newick format: 
+
+(Artibeus_jamaicensis:0.0140116695,(((((((((((Cnephaeus_nilssonii:0.0016898561,Eptesicus_fuscus:0.0024865712)99:0.0024398977,Plecotus_auritus:0.0043394046)81:0.0004453903,Pipistrellus_kuhlii:0.0203059132)97:0.0020022193,(((Myotis_brandtii:0.0020370684,(Myotis_lucifugus:0.0027874979,Myotis_yumanensis:0.0035915525)77:0.0008274226)90:0.0010203867,(Myotis_daubentonii:0.0045646381,(Myotis_myotis:0.0011625410,Myotis_nattereri:0.0017246835)99:0.0014100256)74:0.0004066086)92:0.0009716355,Myotis_davidii:0.0021250073)100:0.0039553447)100:0.0109050541,Molossus_molossus:0.0219477204)71:0.0016931603,(Miniopterus_natalensis:0.0008156978,Miniopterus_schreibersii:0.0008298258)100:0.0105505951)54:0.0018699317,(Saccopteryx_bilineata:0.0033245453,Saccopteryx_leptura:0.0059494877)100:0.0332927539)32:0.0006227167,((Hipposideros_armiger:0.0136965695,((Rhinolophus_ferrumequinum:0.0104270406,Rhinolophus_hipposideros:0.0045511463)85:0.0007380964,Rhinolophus_sinicus:0.0068229335)100:0.0090937127)100:0.0087243110,((Pteropus_alecto:0.0003895050,(Pteropus_medius:0.0012105953,Pteropus_vampyrus:0.0003996865)96:0.0008215690)100:0.0064088979,Rousettus_aegyptiacus:0.0093792139)100:0.0207066638)100:0.0119838709)100:0.0113193707,Pteronotus_mesoamericanus:0.0150580819)100:0.0111123437,Desmodus_rotundus:0.0076880263)87:0.0026376293,(Phyllostomus_discolor:0.0035855464,Phyllostomus_hastatus:0.0055896946)100:0.0194048442)85:0.0045551395,Sturnira_hondurensis:0.0200115352);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/FGFR1.treefile -m "TN{7.20927,15.4312}+F{0.229899,0.287911,0.280325,0.201866}+R3{0.749959,1.56434e-15,0.233264,2.93529,0.0167777,18.793}" --length 2466
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/11_codon_alignments_gblocks_final/species_fasta_by_gene/FGFR1/FGFR1.codon.gblocks.species.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/11_codon_alignments_gblocks_final/species_fasta_by_gene/FGFR1/FGFR1.codon.gblocks.species.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Fri Jul 24 01:37:22 2026
+Total CPU time used: 28.069003 seconds (0h:0m:28s)
+Total wall-clock time used: 7.532054636 seconds (0h:0m:7s)
+

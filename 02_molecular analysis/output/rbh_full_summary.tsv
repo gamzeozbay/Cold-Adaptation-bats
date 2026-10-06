@@ -1,0 +1,952 @@
+gene	query	best_myotis_hit	status	hit_title
+ACSL1	ACSL1|Artibeus_jamaicensis|XP_036984674	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Cnephaeus_nilssonii|XP_079634584	XP_036156683.1	RBH_OK	XP_036156683.1 long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis myotis]
+ACSL1	ACSL1|Desmodus_rotundus|XP_045053046	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Eptesicus_fuscus|XP_054576115	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Miniopterus_natalensis|XP_016066774	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Miniopterus_schreibersii|XP_080980788	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Molossus_molossus|XP_036105432	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_brandtii|XP_014386894	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_daubentonii|XP_059541670	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_davidii|XP_015425254	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Myotis_lucifugus|XP_023612955	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_myotis|XP_036156688	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_nattereri|XP_080940211	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Myotis_yumanensis|XP_070264276	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Phyllostomus_discolor|XP_035867655	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Phyllostomus_hastatus|XP_045677842	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Pipistrellus_kuhlii|XP_045444919	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Plecotus_auritus|XP_080516974	XP_036156683.1	RBH_OK	XP_036156683.1 long-chain-fatty-acid--CoA ligase 1 isoform X3 [Myotis myotis]
+ACSL1	ACSL1|Pteronotus_mesoamericanus|XP_054422148	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Pteropus_alecto|XP_006916439	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Pteropus_medius|XP_039738595	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Pteropus_vampyrus|XP_011362319	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Rhinolophus_ferrumequinum|XP_032960931	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Rhinolophus_hipposideros|XP_080903082	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Rhinolophus_sinicus|XP_019591692	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Rousettus_aegyptiacus|XP_015999465	XP_036156682.1	RBH_OK	XP_036156682.1 long-chain-fatty-acid--CoA ligase 1 isoform X2 [Myotis myotis]
+ACSL1	ACSL1|Saccopteryx_bilineata|XP_066093925	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Saccopteryx_leptura|XP_066236263	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ACSL1	ACSL1|Sturnira_hondurensis|XP_036911064	XP_036156688.1	RBH_OK	XP_036156688.1 long-chain-fatty-acid--CoA ligase 1 isoform X4 [Myotis myotis]
+ADCY3	ADCY3|Artibeus_jamaicensis|XP_053522904	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Cnephaeus_nilssonii|XP_079648034	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Desmodus_rotundus|XP_024408286	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Eptesicus_fuscus|XP_054583895	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Hipposideros_armiger|XP_019502817	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Miniopterus_natalensis|XP_016064486	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Miniopterus_schreibersii|XP_081013163	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Molossus_molossus|XP_036118438	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Myotis_brandtii|XP_014402102	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Myotis_daubentonii|XP_059516385	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Myotis_lucifugus|XP_023612199	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Myotis_myotis|XP_036191076	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Myotis_nattereri|XP_080957409	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Myotis_yumanensis|XP_070284893	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Phyllostomus_discolor|XP_035883621	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Phyllostomus_hastatus|XP_045700348	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Pipistrellus_kuhlii|XP_036290940	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Plecotus_auritus|XP_080539751	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Pteronotus_mesoamericanus|XP_054424979	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Pteropus_alecto|XP_024901537	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Pteropus_vampyrus|XP_023384268	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Rhinolophus_ferrumequinum|XP_032980392	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Rhinolophus_hipposideros|XP_080925117	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Rhinolophus_sinicus|XP_074187863	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Rousettus_aegyptiacus|XP_015977196	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Saccopteryx_bilineata|XP_066093571	XP_036191076.1	RBH_OK	XP_036191076.1 adenylate cyclase type 3 isoform X1 [Myotis myotis]
+ADCY3	ADCY3|Saccopteryx_leptura|XP_066242428	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY3	ADCY3|Sturnira_hondurensis|XP_036922709	XP_036191077.1	RBH_OK	XP_036191077.1 adenylate cyclase type 3 isoform X2 [Myotis myotis]
+ADCY7	ADCY7|Artibeus_jamaicensis|XP_053519172	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Cnephaeus_nilssonii|XP_079656367	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Desmodus_rotundus|XP_045044348	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Eptesicus_fuscus|XP_054566799	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Hipposideros_armiger|XP_019499113	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Miniopterus_natalensis|XP_016060493	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Miniopterus_schreibersii|XP_080974599	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Molossus_molossus|XP_036131871	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Myotis_daubentonii|XP_059524057	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Myotis_davidii|XP_015428125	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Myotis_myotis|XP_036201024	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Myotis_nattereri|XP_080963565	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Myotis_yumanensis|XP_070254456	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Phyllostomus_discolor|XP_035869409	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Phyllostomus_hastatus|XP_045674325	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Pipistrellus_kuhlii|XP_045438839	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Plecotus_auritus|XP_080501298	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Pteronotus_mesoamericanus|XP_054426249	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Pteropus_alecto|XP_024900361	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Pteropus_medius|XP_039736763	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Pteropus_vampyrus|XP_023386422	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Rhinolophus_ferrumequinum|XP_032983098	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Rhinolophus_hipposideros|XP_080888642	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Rhinolophus_sinicus|XP_074171020	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Rousettus_aegyptiacus|XP_016003077	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Saccopteryx_bilineata|XP_066100041	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Saccopteryx_leptura|XP_066206037	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY7	ADCY7|Sturnira_hondurensis|XP_036922250	XP_036201024.1	RBH_OK	XP_036201024.1 adenylate cyclase type 7 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Artibeus_jamaicensis|XP_037022590	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Cnephaeus_nilssonii|XP_079652455	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Desmodus_rotundus|XP_024427981	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Eptesicus_fuscus|XP_008157689	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Hipposideros_armiger|XP_019481019	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Miniopterus_natalensis|XP_016071485	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Miniopterus_schreibersii|XP_080972611	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Molossus_molossus|XP_036119843	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Myotis_brandtii|XP_005872848	XP_036193928.1	RBH_OK	XP_036193928.1 adenylate cyclase type 8 isoform X2 [Myotis myotis]
+ADCY8	ADCY8|Myotis_daubentonii|XP_059528290	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Myotis_davidii|XP_015416939	XP_036193929.1	RBH_OK	XP_036193929.1 adenylate cyclase type 8 isoform X3 [Myotis myotis]
+ADCY8	ADCY8|Myotis_lucifugus|XP_006093353	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Myotis_myotis|XP_036193927	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Myotis_nattereri|XP_080967428	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Myotis_yumanensis|XP_070248448	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Phyllostomus_discolor|XP_028389676	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Phyllostomus_hastatus|XP_045717105	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Pipistrellus_kuhlii|XP_036293438	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Plecotus_auritus|XP_080503123	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Pteronotus_mesoamericanus|XP_054446071	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Pteropus_alecto|XP_006912984	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Pteropus_medius|XP_039701812	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Pteropus_vampyrus|XP_011372134	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Rhinolophus_ferrumequinum|XP_032982362	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Rhinolophus_hipposideros|XP_080926443	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Rhinolophus_sinicus|XP_019579456	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Rousettus_aegyptiacus|XP_015975308	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Saccopteryx_bilineata|XP_066121743	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Saccopteryx_leptura|XP_066235634	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ADCY8	ADCY8|Sturnira_hondurensis|XP_036904455	XP_036193927.1	RBH_OK	XP_036193927.1 adenylate cyclase type 8 isoform X1 [Myotis myotis]
+ATP5F1A	ATP5F1A|Artibeus_jamaicensis|XP_037020991	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Cnephaeus_nilssonii|XP_079640605	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Desmodus_rotundus|XP_024436162	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Eptesicus_fuscus|XP_008156231	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Miniopterus_natalensis|XP_016080530	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Miniopterus_schreibersii|XP_081004294	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Molossus_molossus|XP_036101158	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_daubentonii|XP_059563198	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_davidii|XP_015416963	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_lucifugus|XP_006085199	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_myotis|XP_036178116	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_nattereri|XP_080952642	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Myotis_yumanensis|XP_070277191	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Phyllostomus_discolor|XP_028379714	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Phyllostomus_hastatus|XP_045706104	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Pipistrellus_kuhlii|XP_036273984	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Plecotus_auritus|XP_080541388	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Pteronotus_mesoamericanus|XP_054439565	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Pteropus_alecto|XP_006920000	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Pteropus_medius|XP_039698428	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Pteropus_vampyrus|XP_011359493	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Rhinolophus_ferrumequinum|XP_032943501	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Rhinolophus_hipposideros|XP_080934999	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Rhinolophus_sinicus|XP_019595246	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Rousettus_aegyptiacus|XP_016003275	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Saccopteryx_bilineata|XP_066102392	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Saccopteryx_leptura|XP_066208285	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1A	ATP5F1A|Sturnira_hondurensis|XP_036889604	XP_036178116.1	RBH_OK	XP_036178116.1 ATP synthase subunit alpha, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Artibeus_jamaicensis|XP_036989161	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Cnephaeus_nilssonii|XP_079631759	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Desmodus_rotundus|XP_024432142	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Eptesicus_fuscus|XP_008146880	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Hipposideros_armiger|XP_019524568	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Miniopterus_natalensis|XP_016080054	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Miniopterus_schreibersii|XP_080984261	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Molossus_molossus|XP_036108150	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_brandtii|XP_005872132	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_daubentonii|XP_059539271	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_davidii|XP_015412899	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_lucifugus|XP_006093683	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_myotis|XP_036155331	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_nattereri|XP_080940514	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Myotis_yumanensis|XP_070266060	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Phyllostomus_discolor|XP_028387599	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Phyllostomus_hastatus|XP_045685767	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Pipistrellus_kuhlii|XP_036313244	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Plecotus_auritus|XP_080518451	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Pteronotus_mesoamericanus|XP_054435903	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Pteropus_alecto|XP_006908981	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Pteropus_medius|XP_039721660	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Pteropus_vampyrus|XP_011373944	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Rhinolophus_ferrumequinum|XP_032973962	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Rhinolophus_hipposideros|XP_080915968	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Rhinolophus_sinicus|XP_019597981	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Rousettus_aegyptiacus|XP_016021188	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Saccopteryx_bilineata|XP_066114477	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Saccopteryx_leptura|XP_066225913	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5F1B	ATP5F1B|Sturnira_hondurensis|XP_036886030	XP_036155331.1	RBH_OK	XP_036155331.1 ATP synthase subunit beta, mitochondrial [Myotis myotis]
+ATP5MC1	ATP5MC1|Artibeus_jamaicensis|XP_037005909	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Cnephaeus_nilssonii|XP_079655260	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Desmodus_rotundus|XP_045038510	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Eptesicus_fuscus|XP_054564937	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Hipposideros_armiger|XP_019494029	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Miniopterus_natalensis|XP_016077543	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Miniopterus_schreibersii|XP_081018278	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Molossus_molossus|XP_036124514	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_brandtii|XP_005868199	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_daubentonii|XP_059526684	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_davidii|XP_006765979	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_lucifugus|XP_006098993	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_myotis|XP_036196966	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_nattereri|XP_080965422	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Myotis_yumanensis|XP_070250287	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Phyllostomus_discolor|XP_035889700	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Phyllostomus_hastatus|XP_045692744	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Pipistrellus_kuhlii|XP_036307336	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Plecotus_auritus|XP_080536660	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Pteronotus_mesoamericanus|XP_054441338	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Pteropus_alecto|XP_015454624	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Pteropus_medius|XP_039729687	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Pteropus_vampyrus|XP_011380952	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Rhinolophus_ferrumequinum|XP_032944956	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Rhinolophus_hipposideros|XP_080884328	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Rhinolophus_sinicus|XP_019596253	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Rousettus_aegyptiacus|XP_036078287	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Saccopteryx_bilineata|XP_066119966	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Saccopteryx_leptura|XP_066220563	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+ATP5MC1	ATP5MC1|Sturnira_hondurensis|XP_036889366	XP_036196966.1	RBH_OK	XP_036196966.1 ATP synthase F(0) complex subunit C1, mitochondrial isoform X1 [Myotis myot
+COX4I1	COX4I1|Artibeus_jamaicensis|XP_036998282	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Cnephaeus_nilssonii|XP_079655871	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Desmodus_rotundus|XP_024411933	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Eptesicus_fuscus|XP_054566360	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Hipposideros_armiger|XP_019490740	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Miniopterus_natalensis|XP_016052713	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Miniopterus_schreibersii|XP_080974538	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Molossus_molossus|XP_036131804	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_brandtii|XP_005862594	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_daubentonii|XP_059523135	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_davidii|XP_006762280	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_lucifugus|XP_023608323	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_myotis|XP_036201267	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_nattereri|XP_080963769	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Myotis_yumanensis|XP_070254751	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Phyllostomus_discolor|XP_035868203	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Phyllostomus_hastatus|XP_045674920	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Pipistrellus_kuhlii|XP_045438585	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Plecotus_auritus|XP_080501909	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Pteronotus_mesoamericanus|XP_054444903	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Pteropus_alecto|XP_006926797	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Pteropus_medius|XP_039744675	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Pteropus_vampyrus|XP_011368565	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Rhinolophus_ferrumequinum|XP_032983720	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Rhinolophus_hipposideros|XP_080887495	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Rhinolophus_sinicus|XP_019602675	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Rousettus_aegyptiacus|XP_015984959	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Saccopteryx_bilineata|XP_066098610	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Saccopteryx_leptura|XP_066204505	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX4I1	COX4I1|Sturnira_hondurensis|XP_036896142	XP_036201267.1	RBH_OK	XP_036201267.1 cytochrome c oxidase subunit 4 isoform 1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Artibeus_jamaicensis|XP_037001865	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Eptesicus_fuscus|XP_008138068	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Hipposideros_armiger|XP_019480490	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Miniopterus_natalensis|XP_016076474	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Miniopterus_schreibersii|XP_080974574	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Molossus_molossus|XP_036130640	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_brandtii|XP_005862459	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_daubentonii|XP_059522717	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_davidii|XP_006765108	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_lucifugus|XP_006098686	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_myotis|XP_036201523	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Myotis_yumanensis|XP_070254574	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Phyllostomus_discolor|XP_028385998	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Phyllostomus_hastatus|XP_045702666	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Pipistrellus_kuhlii|XP_036296257	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Plecotus_auritus|XP_080499829	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Pteronotus_mesoamericanus|XP_054450882	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Pteropus_medius|XP_039706154	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Pteropus_vampyrus|XP_011381845	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Rhinolophus_ferrumequinum|XP_032984457	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Rhinolophus_hipposideros|XP_080889244	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Rhinolophus_sinicus|XP_019605542	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Rousettus_aegyptiacus|XP_036088137	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Saccopteryx_bilineata|XP_066098697	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Saccopteryx_leptura|XP_066204722	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+COX7A1	COX7A1|Sturnira_hondurensis|XP_036895982	XP_036201523.1	RBH_OK	XP_036201523.1 cytochrome c oxidase subunit 7A1, mitochondrial [Myotis myotis]
+CPT1A	CPT1A|Artibeus_jamaicensis|XP_036991099	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Cnephaeus_nilssonii|XP_079643043	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Desmodus_rotundus|XP_053779888	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Eptesicus_fuscus|XP_054580699	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Hipposideros_armiger|XP_019510245	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Miniopterus_natalensis|XP_016068952	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Miniopterus_schreibersii|XP_081011117	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Molossus_molossus|XP_036114085	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_brandtii|XP_014393619	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_daubentonii|XP_059565826	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_davidii|XP_015424435	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_lucifugus|XP_023603602	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_myotis|XP_036182262	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Myotis_nattereri|XP_080955554	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Phyllostomus_discolor|XP_028371191	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Phyllostomus_hastatus|XP_045710814	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Pipistrellus_kuhlii|XP_036282966	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Plecotus_auritus|XP_080497801	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Pteronotus_mesoamericanus|XP_054426746	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Pteropus_alecto|XP_006911062	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Pteropus_vampyrus|XP_023381548	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Rhinolophus_ferrumequinum|XP_032975839	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Rhinolophus_hipposideros|XP_080919941	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Rhinolophus_sinicus|XP_074192948	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Rousettus_aegyptiacus|XP_015987244	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Saccopteryx_bilineata|XP_066108361	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Saccopteryx_leptura|XP_066239900	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1A	CPT1A|Sturnira_hondurensis|XP_036918461	XP_036182262.1	RBH_OK	XP_036182262.1 carnitine O-palmitoyltransferase 1, liver isoform isoform X1 [Myotis myotis
+CPT1B	CPT1B|Artibeus_jamaicensis|XP_037016644	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Cnephaeus_nilssonii|XP_079631937	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Desmodus_rotundus|XP_045043197	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Eptesicus_fuscus|XP_054575660	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Hipposideros_armiger|XP_019524163	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Miniopterus_natalensis|XP_016067165	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Miniopterus_schreibersii|XP_080983173	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Molossus_molossus|XP_036134134	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_brandtii|XP_005868291	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_daubentonii|XP_059537248	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_davidii|XP_006771154	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_lucifugus|XP_006106431	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_myotis|XP_036167238	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_nattereri|XP_080937137	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Myotis_yumanensis|XP_070267472	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Phyllostomus_discolor|XP_035875705	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Phyllostomus_hastatus|XP_045690807	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Pipistrellus_kuhlii|XP_036286038	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Plecotus_auritus|XP_080515566	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Pteronotus_mesoamericanus|XP_054426437	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Pteropus_alecto|XP_006917900	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Pteropus_medius|XP_039718980	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Pteropus_vampyrus|XP_011382436	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Rhinolophus_ferrumequinum|XP_032973441	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Rhinolophus_hipposideros|XP_080917486	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Rhinolophus_sinicus|XP_019573368	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Rousettus_aegyptiacus|XP_036093694	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Saccopteryx_bilineata|XP_066110663	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Saccopteryx_leptura|XP_066214893	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT1B	CPT1B|Sturnira_hondurensis|XP_036904549	XP_036167238.1	RBH_OK	XP_036167238.1 carnitine O-palmitoyltransferase 1, muscle isoform isoform X1 [Myotis myoti
+CPT2	CPT2|Artibeus_jamaicensis|XP_037017800	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Cnephaeus_nilssonii|XP_079633747	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Desmodus_rotundus|XP_024427006	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Eptesicus_fuscus|XP_008137514	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Hipposideros_armiger|XP_019521932	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Miniopterus_schreibersii|XP_081002074	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Molossus_molossus|XP_036111276	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_brandtii|XP_005878740	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_daubentonii|XP_059545519	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_davidii|XP_015422435	XP_036205190.1	RBH_OK	XP_036205190.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X2 [Myotis myotis
+CPT2	CPT2|Myotis_lucifugus|XP_006087392	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_myotis|XP_036205189	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_nattereri|XP_080943232	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Myotis_yumanensis|XP_070261255	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Phyllostomus_discolor|XP_028368982	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Phyllostomus_hastatus|XP_045713509	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Pipistrellus_kuhlii|XP_036300949	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Plecotus_auritus|XP_080513452	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Pteronotus_mesoamericanus|XP_054429207	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Pteropus_alecto|XP_006919275	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Pteropus_medius|XP_039742491	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Pteropus_vampyrus|XP_011368764	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Rhinolophus_ferrumequinum|XP_032969885	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Rhinolophus_hipposideros|XP_080912914	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Rhinolophus_sinicus|XP_019598393	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Rousettus_aegyptiacus|XP_015975920	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Saccopteryx_bilineata|XP_066125254	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Saccopteryx_leptura|XP_066232433	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CPT2	CPT2|Sturnira_hondurensis|XP_036899138	XP_036205189.1	RBH_OK	XP_036205189.1 carnitine O-palmitoyltransferase 2, mitochondrial isoform X1 [Myotis myotis
+CREB3L1	CREB3L1|Artibeus_jamaicensis|XP_037022156	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Cnephaeus_nilssonii|XP_079645639	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Desmodus_rotundus|XP_024414827	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Eptesicus_fuscus|XP_008144991	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Hipposideros_armiger|XP_019512023	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Miniopterus_natalensis|XP_016059538	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Miniopterus_schreibersii|XP_081008717	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Molossus_molossus|XP_036114844	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_brandtii|XP_014398829	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_daubentonii|XP_059565511	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_davidii|XP_015425013	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_lucifugus|XP_023612425	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_myotis|XP_036181966	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_nattereri|XP_080955474	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Myotis_yumanensis|XP_070283989	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Phyllostomus_discolor|XP_028371918	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Phyllostomus_hastatus|XP_045681351	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Pipistrellus_kuhlii|XP_036283071	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Plecotus_auritus|XP_080496938	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Pteronotus_mesoamericanus|XP_054443161	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Pteropus_alecto|XP_006908134	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Pteropus_medius|XP_039724057	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Pteropus_vampyrus|XP_011355334	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Rhinolophus_ferrumequinum|XP_032977782	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Rhinolophus_hipposideros|XP_080919234	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Rhinolophus_sinicus|XP_019599098	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Rousettus_aegyptiacus|XP_016002239	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Saccopteryx_bilineata|XP_066107487	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Saccopteryx_leptura|XP_066218612	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L1	CREB3L1|Sturnira_hondurensis|XP_036883828	XP_036181966.1	RBH_OK	XP_036181966.1 cyclic AMP-responsive element-binding protein 3-like protein 1 [Myotis myot
+CREB3L4	CREB3L4|Artibeus_jamaicensis|XP_037018337	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Cnephaeus_nilssonii|XP_079618035	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Desmodus_rotundus|XP_024429027	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Eptesicus_fuscus|XP_054567799	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Hipposideros_armiger|XP_019482825	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Miniopterus_natalensis|XP_016077070	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Miniopterus_schreibersii|XP_080976511	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Molossus_molossus|XP_036128900	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_brandtii|XP_014396245	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_daubentonii|XP_059530752	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_davidii|XP_015427263	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_lucifugus|XP_014316670	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_myotis|XP_036199350	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_nattereri|XP_080968607	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Myotis_yumanensis|XP_070252439	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Phyllostomus_discolor|XP_028358317	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Phyllostomus_hastatus|XP_045673292	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Pipistrellus_kuhlii|XP_036297628	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Plecotus_auritus|XP_080503525	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Pteropus_alecto|XP_024896670	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Pteropus_medius|XP_039705652	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Rhinolophus_ferrumequinum|XP_032949687	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Rhinolophus_hipposideros|XP_080882967	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Rhinolophus_sinicus|XP_074174773	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB3L4	CREB3L4|Sturnira_hondurensis|XP_036906600	XP_036199350.1	RBH_OK	XP_036199350.1 cyclic AMP-responsive element-binding protein 3-like protein 4 [Myotis myot
+CREB5	CREB5|Artibeus_jamaicensis|XP_053519623	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Cnephaeus_nilssonii|XP_079642014	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Desmodus_rotundus|XP_024418758	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Eptesicus_fuscus|XP_028010919	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Hipposideros_armiger|XP_019495495	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Miniopterus_natalensis|XP_016077753	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Miniopterus_schreibersii|XP_081002917	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Molossus_molossus|XP_036102954	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Myotis_brandtii|XP_014392488	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Myotis_daubentonii|XP_059568634	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Myotis_davidii|XP_015413613	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Myotis_lucifugus|XP_023609597	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Myotis_myotis|XP_036183642	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Myotis_nattereri|XP_080958880	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Myotis_yumanensis|XP_070280592	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Phyllostomus_discolor|XP_028382030	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Phyllostomus_hastatus|XP_045684259	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Pipistrellus_kuhlii|XP_036309612	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Plecotus_auritus|XP_080520499	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Pteronotus_mesoamericanus|XP_054420131	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Pteropus_alecto|XP_024902639	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Pteropus_medius|XP_039718556	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Rhinolophus_ferrumequinum|XP_032944608	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Rhinolophus_hipposideros|XP_080935602	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Rhinolophus_sinicus|XP_074197024	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Rousettus_aegyptiacus|XP_036086322	XP_036183642.1	RBH_OK	XP_036183642.1 cyclic AMP-responsive element-binding protein 5 isoform X1 [Myotis myotis]
+CREB5	CREB5|Saccopteryx_bilineata|XP_066095534	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Saccopteryx_leptura|XP_066210249	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+CREB5	CREB5|Sturnira_hondurensis|XP_036897130	XP_036183643.1	RBH_OK	XP_036183643.1 cyclic AMP-responsive element-binding protein 5 isoform X2 [Myotis myotis]
+FGFR1	FGFR1|Artibeus_jamaicensis|XP_037022860	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Cnephaeus_nilssonii|XP_079634940	XP_036152657.1	RBH_OK	XP_036152657.1 fibroblast growth factor receptor 1 isoform X8 [Myotis myotis]
+FGFR1	FGFR1|Desmodus_rotundus|XP_071076307	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Eptesicus_fuscus|XP_054576012	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Hipposideros_armiger|XP_019482354	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Miniopterus_natalensis|XP_016065875	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Miniopterus_schreibersii|XP_080983695	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Molossus_molossus|XP_036106031	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_brandtii|XP_014391823	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_daubentonii|XP_059541341	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_davidii|XP_015420703	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_lucifugus|XP_006086308	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_myotis|XP_036152655	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Myotis_nattereri|XP_080939083	XP_036152657.1	RBH_OK	XP_036152657.1 fibroblast growth factor receptor 1 isoform X8 [Myotis myotis]
+FGFR1	FGFR1|Myotis_yumanensis|XP_070264521	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Phyllostomus_discolor|XP_035867493	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Phyllostomus_hastatus|XP_045677281	XP_036152658.1	RBH_OK	XP_036152658.1 fibroblast growth factor receptor 1 isoform X9 [Myotis myotis]
+FGFR1	FGFR1|Pipistrellus_kuhlii|XP_036311108	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Plecotus_auritus|XP_080518363	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Pteronotus_mesoamericanus|XP_054421978	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Pteropus_alecto|XP_015448375	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Pteropus_medius|XP_039709835	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Pteropus_vampyrus|XP_023394347	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Rhinolophus_ferrumequinum|XP_032960078	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Rhinolophus_hipposideros|XP_080901583	XP_036152657.1	RBH_OK	XP_036152657.1 fibroblast growth factor receptor 1 isoform X8 [Myotis myotis]
+FGFR1	FGFR1|Rhinolophus_sinicus|XP_074185739	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Rousettus_aegyptiacus|XP_016010753	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Saccopteryx_bilineata|XP_066093307	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Saccopteryx_leptura|XP_066236462	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+FGFR1	FGFR1|Sturnira_hondurensis|XP_036911287	XP_036152655.1	RBH_OK	XP_036152655.1 fibroblast growth factor receptor 1 isoform X6 [Myotis myotis]
+NDUFA1	NDUFA1|Artibeus_jamaicensis|XP_037015867	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Cnephaeus_nilssonii|XP_079620843	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Desmodus_rotundus|XP_024422489	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Eptesicus_fuscus|XP_054580108	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Hipposideros_armiger|XP_019523408	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Miniopterus_natalensis|XP_016077845	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Miniopterus_schreibersii|XP_080982550	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Molossus_molossus|XP_036127201	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_brandtii|XP_005859486	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_daubentonii|XP_059535697	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_davidii|XP_006758001	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_lucifugus|XP_006082225	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_myotis|XP_036160566	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_nattereri|XP_080937421	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Myotis_yumanensis|XP_070265559	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Phyllostomus_discolor|XP_028378809	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Phyllostomus_hastatus|XP_045673673	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Pipistrellus_kuhlii|XP_036299456	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Plecotus_auritus|XP_080540355	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Pteronotus_mesoamericanus|XP_054436282	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Pteropus_alecto|XP_006904747	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Pteropus_vampyrus|XP_011378517	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Rhinolophus_ferrumequinum|XP_032958778	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Rhinolophus_hipposideros|XP_080899986	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Rhinolophus_sinicus|XP_019572591	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Rousettus_aegyptiacus|XP_036082346	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Saccopteryx_bilineata|XP_066104741	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Saccopteryx_leptura|XP_066212232	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFA1	NDUFA1|Sturnira_hondurensis|XP_036925025	XP_036160566.1	RBH_OK	XP_036160566.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 [Myotis myotis
+NDUFB8	NDUFB8|Artibeus_jamaicensis|XP_037015303	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Cnephaeus_nilssonii|XP_079650275	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Desmodus_rotundus|XP_024411505	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Eptesicus_fuscus|XP_008142408	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Hipposideros_armiger|XP_019491780	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Miniopterus_natalensis|XP_016075455	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Miniopterus_schreibersii|XP_081013503	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Molossus_molossus|XP_036121804	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_brandtii|XP_005885411	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_daubentonii|XP_059517096	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_davidii|XP_006756613	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_lucifugus|XP_006101787	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_myotis|XP_036192201	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_nattereri|XP_080961550	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Myotis_yumanensis|XP_070288605	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Phyllostomus_discolor|XP_028367039	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Phyllostomus_hastatus|XP_045710637	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Pipistrellus_kuhlii|XP_036294761	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Plecotus_auritus|XP_080497609	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Pteronotus_mesoamericanus|XP_054437345	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Pteropus_alecto|XP_006925941	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Pteropus_medius|XP_039727438	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Pteropus_vampyrus|XP_011377147	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Rhinolophus_ferrumequinum|XP_032985995	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Rhinolophus_hipposideros|XP_080930625	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Rhinolophus_sinicus|XP_019580468	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Rousettus_aegyptiacus|XP_015979743	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Saccopteryx_bilineata|XP_066096174	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Saccopteryx_leptura|XP_066211661	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFB8	NDUFB8|Sturnira_hondurensis|XP_036920049	XP_036192201.1	RBH_OK	XP_036192201.1 NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial 
+NDUFS2	NDUFS2|Artibeus_jamaicensis|XP_037005747	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Cnephaeus_nilssonii|XP_079618340	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Desmodus_rotundus|XP_053771619	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Eptesicus_fuscus|XP_008151296	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Hipposideros_armiger|XP_019488635	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Miniopterus_natalensis|XP_016065910	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Miniopterus_schreibersii|XP_080976833	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Molossus_molossus|XP_036128640	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_brandtii|XP_014384001	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_daubentonii|XP_059530574	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_davidii|XP_015420075	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_lucifugus|XP_023600362	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_myotis|XP_036198775	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_nattereri|XP_080968732	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Myotis_yumanensis|XP_070253460	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Phyllostomus_discolor|XP_028359219	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Phyllostomus_hastatus|XP_045694375	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Pipistrellus_kuhlii|XP_036290267	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Plecotus_auritus|XP_080505549	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Pteronotus_mesoamericanus|XP_054443835	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Pteropus_alecto|XP_006907923	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Pteropus_medius|XP_039695808	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Pteropus_vampyrus|XP_011375311	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Rhinolophus_ferrumequinum|XP_032948106	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Rhinolophus_hipposideros|XP_080882844	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Rhinolophus_sinicus|XP_019568479	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Rousettus_aegyptiacus|XP_015989553	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Saccopteryx_bilineata|XP_066117061	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Saccopteryx_leptura|XP_066227411	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFS2	NDUFS2|Sturnira_hondurensis|XP_036890906	XP_036198775.1	RBH_OK	XP_036198775.1 NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial [Myoti
+NDUFV2	NDUFV2|Artibeus_jamaicensis|XP_036999227	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Cnephaeus_nilssonii|XP_079641369	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Desmodus_rotundus|XP_024436017	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Eptesicus_fuscus|XP_008158074	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Hipposideros_armiger|XP_019505539	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Miniopterus_schreibersii|XP_081005076	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Molossus_molossus|XP_036101394	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_brandtii|XP_005866953	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_daubentonii|XP_059562592	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_davidii|XP_006763342	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_lucifugus|XP_006089342	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_myotis|XP_036179135	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_nattereri|XP_080952625	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Myotis_yumanensis|XP_070276764	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Phyllostomus_discolor|XP_028380500	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Phyllostomus_hastatus|XP_045706097	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Pipistrellus_kuhlii|XP_036274486	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Plecotus_auritus|XP_080542077	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Pteronotus_mesoamericanus|XP_054443344	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Pteropus_alecto|XP_006920136	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Pteropus_medius|XP_039701792	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Pteropus_vampyrus|XP_011364466	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Rhinolophus_ferrumequinum|XP_032943411	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Rhinolophus_hipposideros|XP_080935150	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Rhinolophus_sinicus|XP_019568154	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Rousettus_aegyptiacus|XP_015976393	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Saccopteryx_bilineata|XP_066102787	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Saccopteryx_leptura|XP_066209039	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+NDUFV2	NDUFV2|Sturnira_hondurensis|XP_036906251	XP_036179135.1	RBH_OK	XP_036179135.1 NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Myotis myoti
+PLIN1	PLIN1|Artibeus_jamaicensis|XP_037000913	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Cnephaeus_nilssonii|XP_079620123	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Desmodus_rotundus|XP_045052498	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Eptesicus_fuscus|XP_008159516	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Hipposideros_armiger|XP_019495573	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Miniopterus_natalensis|XP_016072656	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Miniopterus_schreibersii|XP_080980445	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Molossus_molossus|XP_036133957	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Myotis_daubentonii|XP_059534260	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Myotis_davidii|XP_015418718	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Myotis_myotis|XP_036211705	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Myotis_nattereri|XP_080970924	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Myotis_yumanensis|XP_070256670	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Phyllostomus_discolor|XP_035868238	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Phyllostomus_hastatus|XP_045680792	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Pipistrellus_kuhlii|XP_036271420	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Plecotus_auritus|XP_080507853	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Pteronotus_mesoamericanus|XP_054433540	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Pteropus_alecto|XP_024905542	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Pteropus_medius|XP_039714440	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Pteropus_vampyrus|XP_023378744	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Rhinolophus_ferrumequinum|XP_032956190	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Rhinolophus_hipposideros|XP_080897307	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Rhinolophus_sinicus|XP_074173928	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Rousettus_aegyptiacus|XP_016007074	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Saccopteryx_bilineata|XP_066096590	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Saccopteryx_leptura|XP_066211888	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PLIN1	PLIN1|Sturnira_hondurensis|XP_036909519	XP_036211705.1	RBH_OK	XP_036211705.1 perilipin-1 [Myotis myotis]
+PPARGC1A	PPARGC1A|Artibeus_jamaicensis|XP_053528293	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Cnephaeus_nilssonii|XP_079625120	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Desmodus_rotundus|XP_024429715	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Eptesicus_fuscus|XP_008138413	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Hipposideros_armiger|XP_019497959	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Miniopterus_natalensis|XP_016073738	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Miniopterus_schreibersii|XP_080985206	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Molossus_molossus|XP_036137128	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_brandtii|XP_005877725	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_daubentonii|XP_059530320	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_davidii|XP_006771104	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_lucifugus|XP_006093335	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_myotis|XP_036186069	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_nattereri|XP_080939268	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Myotis_yumanensis|XP_070254720	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Phyllostomus_discolor|XP_028361428	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Phyllostomus_hastatus|XP_045689997	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Pipistrellus_kuhlii|XP_036275327	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Plecotus_auritus|XP_080496428	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Pteronotus_mesoamericanus|XP_054437968	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Pteropus_alecto|XP_006919020	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Pteropus_medius|XP_039694009	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Pteropus_vampyrus|XP_011363527	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Rhinolophus_ferrumequinum|XP_032962153	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Rhinolophus_hipposideros|XP_080904316	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Rhinolophus_sinicus|XP_019599437	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Rousettus_aegyptiacus|XP_016010316	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Saccopteryx_bilineata|XP_066134951	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Saccopteryx_leptura|XP_066240213	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARGC1A	PPARGC1A|Sturnira_hondurensis|XP_036900832	XP_036186069.1	RBH_OK	XP_036186069.1 peroxisome proliferator-activated receptor gamma coactivator 1-alpha [Myoti
+PPARG	PPARG|Artibeus_jamaicensis|XP_036995216	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Cnephaeus_nilssonii|XP_079651119	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Desmodus_rotundus|XP_024412179	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Eptesicus_fuscus|XP_054585700	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Hipposideros_armiger|XP_019501605	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Miniopterus_natalensis|XP_016065453	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Miniopterus_schreibersii|XP_081015193	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Molossus_molossus|XP_036122468	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_brandtii|XP_005870103	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_daubentonii|XP_059519595	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_davidii|XP_006758346	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_lucifugus|XP_006083889	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_myotis|XP_036188104	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_nattereri|XP_080961772	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Myotis_yumanensis|XP_070289713	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Phyllostomus_discolor|XP_028374565	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Phyllostomus_hastatus|XP_045688235	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Pipistrellus_kuhlii|XP_036287043	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Plecotus_auritus|XP_080531232	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Pteronotus_mesoamericanus|XP_054451353	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Pteropus_alecto|XP_006917693	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Pteropus_medius|XP_039742700	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Pteropus_vampyrus|XP_011368855	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Rhinolophus_ferrumequinum|XP_032988588	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Rhinolophus_hipposideros|XP_080928099	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Rhinolophus_sinicus|XP_074169074	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Rousettus_aegyptiacus|XP_016018186	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Saccopteryx_bilineata|XP_066101223	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Saccopteryx_leptura|XP_066207247	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PPARG	PPARG|Sturnira_hondurensis|XP_036906701	XP_036188104.1	RBH_OK	XP_036188104.1 peroxisome proliferator-activated receptor gamma isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Artibeus_jamaicensis|XP_053516251	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Cnephaeus_nilssonii|XP_079633446	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Desmodus_rotundus|XP_053776459	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Eptesicus_fuscus|XP_054576642	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Hipposideros_armiger|XP_019514108	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Miniopterus_natalensis|XP_016069012	XP_036207701.1	RBH_OK	XP_036207701.1 histone-lysine N-methyltransferase PRDM16 isoform X2 [Myotis myotis]
+PRDM16	PRDM16|Miniopterus_schreibersii|XP_081001736	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Molossus_molossus|XP_036112120	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Myotis_daubentonii|XP_059547496	XP_036207701.1	RBH_OK	XP_036207701.1 histone-lysine N-methyltransferase PRDM16 isoform X2 [Myotis myotis]
+PRDM16	PRDM16|Myotis_myotis|XP_036207702	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Myotis_nattereri|XP_080943494	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Myotis_yumanensis|XP_070260033	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Phyllostomus_discolor|XP_035881101	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Phyllostomus_hastatus|XP_045715362	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Pipistrellus_kuhlii|XP_036316777	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Plecotus_auritus|XP_080514323	XP_036207701.1	RBH_OK	XP_036207701.1 histone-lysine N-methyltransferase PRDM16 isoform X2 [Myotis myotis]
+PRDM16	PRDM16|Pteronotus_mesoamericanus|XP_054439966	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Pteropus_alecto|XP_024904309	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Pteropus_medius|XP_039698345	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Pteropus_vampyrus|XP_023392759	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Rhinolophus_ferrumequinum|XP_032970739	XP_036207700.1	RBH_OK	XP_036207700.1 histone-lysine N-methyltransferase PRDM16 isoform X1 [Myotis myotis]
+PRDM16	PRDM16|Rhinolophus_hipposideros|XP_080913255	XP_036207701.1	RBH_OK	XP_036207701.1 histone-lysine N-methyltransferase PRDM16 isoform X2 [Myotis myotis]
+PRDM16	PRDM16|Rhinolophus_sinicus|XP_074190331	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Rousettus_aegyptiacus|XP_036083783	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Saccopteryx_bilineata|XP_066126740	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Saccopteryx_leptura|XP_066230958	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRDM16	PRDM16|Sturnira_hondurensis|XP_036918022	XP_036207702.1	RBH_OK	XP_036207702.1 histone-lysine N-methyltransferase PRDM16 isoform X3 [Myotis myotis]
+PRKAA1	PRKAA1|Artibeus_jamaicensis|XP_053513274	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Cnephaeus_nilssonii|XP_079643907	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Desmodus_rotundus|XP_053770466	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Eptesicus_fuscus|XP_054571271	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Hipposideros_armiger|XP_019487515	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Miniopterus_natalensis|XP_016079632	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Miniopterus_schreibersii|XP_080988998	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Molossus_molossus|XP_036135275	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_brandtii|XP_005876046	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_daubentonii|XP_059550853	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_davidii|XP_015426495	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_lucifugus|XP_023610804	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_myotis|XP_036164932	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_nattereri|XP_080945717	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Myotis_yumanensis|XP_070267888	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Phyllostomus_discolor|XP_028373174	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Phyllostomus_hastatus|XP_045703790	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Pipistrellus_kuhlii|XP_036267059	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Plecotus_auritus|XP_080536131	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Pteronotus_mesoamericanus|XP_054439945	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Pteropus_alecto|XP_006919570	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Pteropus_medius|XP_039698531	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Pteropus_vampyrus|XP_011368987	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Rhinolophus_ferrumequinum|XP_032965703	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Rhinolophus_hipposideros|XP_080909364	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Rhinolophus_sinicus|XP_019592772	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Rousettus_aegyptiacus|XP_016003448	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Saccopteryx_bilineata|XP_066096378	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Saccopteryx_leptura|XP_066234578	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+PRKAA1	PRKAA1|Sturnira_hondurensis|XP_036919120	XP_036164932.1	RBH_OK	XP_036164932.1 5'-AMP-activated protein kinase catalytic subunit alpha-1 isoform X2 [Myoti
+SDHA1	SDHA1|Artibeus_jamaicensis|XP_036993213	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Cnephaeus_nilssonii|XP_079637219	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Desmodus_rotundus|XP_024434208	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Eptesicus_fuscus|XP_008160056	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Hipposideros_armiger|XP_019479916	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Miniopterus_natalensis|XP_016067811	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Miniopterus_schreibersii|XP_080989322	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Molossus_molossus|XP_036135197	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_brandtii|XP_014404189	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_daubentonii|XP_059550580	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_davidii|XP_006762508	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_lucifugus|XP_006081495	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_myotis|XP_036164388	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_nattereri|XP_080946280	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Myotis_yumanensis|XP_070268104	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Phyllostomus_discolor|XP_028366975	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Phyllostomus_hastatus|XP_045703819	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Pipistrellus_kuhlii|XP_036265508	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Plecotus_auritus|XP_080533721	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Pteronotus_mesoamericanus|XP_054434347	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Pteropus_alecto|XP_024906279	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Pteropus_medius|XP_039698811	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Pteropus_vampyrus|XP_023375518	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Rhinolophus_ferrumequinum|XP_032966375	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Rhinolophus_hipposideros|XP_080910354	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Rhinolophus_sinicus|XP_019600148	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Rousettus_aegyptiacus|XP_015980152	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Saccopteryx_bilineata|XP_066099133	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Saccopteryx_leptura|XP_066231366	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHA1	SDHA1|Sturnira_hondurensis|XP_036918814	XP_036164388.1	RBH_OK	XP_036164388.1 succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [M
+SDHB	SDHB|Artibeus_jamaicensis|XP_037001962	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Cnephaeus_nilssonii|XP_079633417	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Desmodus_rotundus|XP_024410043	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Eptesicus_fuscus|XP_008146388	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Hipposideros_armiger|XP_019510454	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Miniopterus_natalensis|XP_016071594	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Miniopterus_schreibersii|XP_081002056	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Molossus_molossus|XP_036112794	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_brandtii|XP_005857511	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_daubentonii|XP_059547076	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_davidii|XP_015413151	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_myotis|XP_036205876	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_nattereri|XP_080942599	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Myotis_yumanensis|XP_070260295	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Phyllostomus_discolor|XP_028367875	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Phyllostomus_hastatus|XP_045715500	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Pipistrellus_kuhlii|XP_036301172	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Plecotus_auritus|XP_080512980	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Pteronotus_mesoamericanus|XP_054435649	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Pteropus_alecto|XP_006914375	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Pteropus_medius|XP_039698027	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Pteropus_vampyrus|XP_011361783	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Rhinolophus_ferrumequinum|XP_032970242	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Rhinolophus_hipposideros|XP_080912674	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Rousettus_aegyptiacus|XP_015983868	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Saccopteryx_bilineata|XP_066126416	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Saccopteryx_leptura|XP_066231297	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SDHB	SDHB|Sturnira_hondurensis|XP_036901000	XP_036205876.1	RBH_OK	XP_036205876.1 succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial iso
+SIRT6	SIRT6|Artibeus_jamaicensis|XP_037021172	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Cnephaeus_nilssonii|XP_079629457	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Desmodus_rotundus|XP_024425005	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Eptesicus_fuscus|XP_008148833	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Hipposideros_armiger|XP_019509075	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Miniopterus_natalensis|XP_016053328	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Miniopterus_schreibersii|XP_080992951	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Molossus_molossus|XP_036096274	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_daubentonii|XP_059553132	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_davidii|XP_006754176	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_lucifugus|XP_023602582	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_myotis|XP_036170477	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_nattereri|XP_080947033	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Myotis_yumanensis|XP_070271923	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Phyllostomus_discolor|XP_028375951	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Phyllostomus_hastatus|XP_045687792	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Pipistrellus_kuhlii|XP_036315848	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Plecotus_auritus|XP_080533163	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Pteronotus_mesoamericanus|XP_054438808	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Pteropus_alecto|XP_006904170	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Pteropus_medius|XP_039734482	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Pteropus_vampyrus|XP_011380230	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Rhinolophus_ferrumequinum|XP_032990314	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Rhinolophus_hipposideros|XP_080932921	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Rhinolophus_sinicus|XP_019599845	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Rousettus_aegyptiacus|XP_015999880	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Saccopteryx_bilineata|XP_066131970	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Saccopteryx_leptura|XP_066200567	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SIRT6	SIRT6|Sturnira_hondurensis|XP_036898464	XP_036170477.1	RBH_OK	XP_036170477.1 NAD-dependent protein deacetylase sirtuin-6 [Myotis myotis]
+SLC25A20	SLC25A20|Artibeus_jamaicensis|XP_036984365	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Cnephaeus_nilssonii|XP_079651077	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Desmodus_rotundus|XP_024421920	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Eptesicus_fuscus|XP_008154062	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Hipposideros_armiger|XP_019490042	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Miniopterus_natalensis|XP_016058316	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Miniopterus_schreibersii|XP_081016794	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Molossus_molossus|XP_036123197	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_brandtii|XP_014394433	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_daubentonii|XP_059520793	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_davidii|XP_006770643	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_lucifugus|XP_006106178	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_myotis|XP_036189517	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_nattereri|XP_080962716	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Myotis_yumanensis|XP_070247322	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Phyllostomus_discolor|XP_028374688	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Phyllostomus_hastatus|XP_045712887	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Pipistrellus_kuhlii|XP_036288247	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Plecotus_auritus|XP_080529683	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Pteronotus_mesoamericanus|XP_054450481	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Pteropus_alecto|XP_006909126	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Pteropus_medius|XP_039693620	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Pteropus_vampyrus|XP_011373687	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Rhinolophus_ferrumequinum|XP_032987988	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Rhinolophus_hipposideros|XP_080928162	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Rhinolophus_sinicus|XP_019579475	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Rousettus_aegyptiacus|XP_016005364	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Saccopteryx_bilineata|XP_066101425	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Saccopteryx_leptura|XP_066207387	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SLC25A20	SLC25A20|Sturnira_hondurensis|XP_036905683	XP_036189517.1	RBH_OK	XP_036189517.1 mitochondrial carnitine/acylcarnitine carrier protein [Myotis myotis]
+SOS1	SOS1|Artibeus_jamaicensis|XP_053522831	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Cnephaeus_nilssonii|XP_079648379	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Desmodus_rotundus|XP_024408671	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Eptesicus_fuscus|XP_054584431	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Hipposideros_armiger|XP_019503342	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Miniopterus_natalensis|XP_016074427	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Miniopterus_schreibersii|XP_081013220	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Molossus_molossus|XP_036119131	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_brandtii|XP_014393919	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_daubentonii|XP_059516032	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_davidii|XP_015414361	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_lucifugus|XP_023601950	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_myotis|XP_036190675	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_nattereri|XP_080956891	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Myotis_yumanensis|XP_070285156	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Phyllostomus_discolor|XP_028371033	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Phyllostomus_hastatus|XP_045683035	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Pipistrellus_kuhlii|XP_036290966	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Plecotus_auritus|XP_080539218	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Pteronotus_mesoamericanus|XP_054423545	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Pteropus_alecto|XP_006909715	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Pteropus_medius|XP_039743294	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Pteropus_vampyrus|XP_011359678	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Rhinolophus_ferrumequinum|XP_032980400	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Rhinolophus_hipposideros|XP_080924805	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Rhinolophus_sinicus|XP_019597952	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Rousettus_aegyptiacus|XP_016017653	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Saccopteryx_bilineata|XP_066123060	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Saccopteryx_leptura|XP_066234535	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS1	SOS1|Sturnira_hondurensis|XP_036922803	XP_036190675.1	RBH_OK	XP_036190675.1 son of sevenless homolog 1 isoform X1 [Myotis myotis]
+SOS2	SOS2|Artibeus_jamaicensis|XP_037011493	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Cnephaeus_nilssonii|XP_079624539	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Desmodus_rotundus|XP_053783591	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Eptesicus_fuscus|XP_054572060	XP_036162062.1	RBH_OK	XP_036162062.1 son of sevenless homolog 2 isoform X2 [Myotis myotis]
+SOS2	SOS2|Hipposideros_armiger|XP_019486008	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Miniopterus_natalensis|XP_016053574	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Miniopterus_schreibersii|XP_080975774	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Molossus_molossus|XP_036098075	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Myotis_daubentonii|XP_059552650	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Myotis_davidii|XP_015425975	XP_036162062.1	RBH_OK	XP_036162062.1 son of sevenless homolog 2 isoform X2 [Myotis myotis]
+SOS2	SOS2|Myotis_lucifugus|XP_023619632	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Myotis_myotis|XP_036162055	XP_036162055.1	RBH_OK	XP_036162055.1 son of sevenless homolog 2 isoform X1 [Myotis myotis]
+SOS2	SOS2|Myotis_nattereri|XP_080951006	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Myotis_yumanensis|XP_070276206	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Phyllostomus_hastatus|XP_045678086	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Pipistrellus_kuhlii|XP_036293277	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Plecotus_auritus|XP_080525553	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Pteronotus_mesoamericanus|XP_054421185	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Pteropus_alecto|XP_006920269	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Pteropus_medius|XP_039721103	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Pteropus_vampyrus|XP_011384025	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Rhinolophus_ferrumequinum|XP_032963085	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Rhinolophus_hipposideros|XP_080906577	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Rhinolophus_sinicus|XP_019581209	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Rousettus_aegyptiacus|XP_016001254	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Saccopteryx_bilineata|XP_066128304	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Saccopteryx_leptura|XP_066200433	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+SOS2	SOS2|Sturnira_hondurensis|XP_036910146	XP_036162111.1	RBH_OK	XP_036162111.1 son of sevenless homolog 2 isoform X10 [Myotis myotis]
+UCP1	UCP1|Cnephaeus_nilssonii|XP_079629434	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Eptesicus_fuscus|XP_054572950	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Hipposideros_armiger|XP_019516588	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Miniopterus_natalensis|XP_016062362	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Miniopterus_schreibersii|XP_080991545	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Molossus_molossus|XP_036097118	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_brandtii|XP_005877832	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_daubentonii|XP_059553958	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_davidii|XP_006766147	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_lucifugus|XP_006082035	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_myotis|XP_036170639	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_nattereri|XP_080948808	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Myotis_yumanensis|XP_070273312	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Pipistrellus_kuhlii|XP_036279895	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Plecotus_auritus|XP_080530094	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Pteropus_alecto|XP_006906290	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Pteropus_medius|XP_039731761	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Pteropus_vampyrus|XP_011372612	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Rhinolophus_ferrumequinum|XP_032990429	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Rhinolophus_hipposideros|XP_080933954	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Rhinolophus_sinicus|XP_019586280	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Rousettus_aegyptiacus|XP_016009570	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Saccopteryx_bilineata|XP_066109563	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UCP1	UCP1|Saccopteryx_leptura|XP_066217010	XP_036170639.1	RBH_OK	XP_036170639.1 mitochondrial brown fat uncoupling protein 1 [Myotis myotis]
+UQCRB	UQCRB|Artibeus_jamaicensis|XP_036987003	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Cnephaeus_nilssonii|XP_079652620	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Desmodus_rotundus|XP_024428092	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Eptesicus_fuscus|XP_008146747	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Miniopterus_natalensis|XP_016054006	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Miniopterus_schreibersii|XP_080972573	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Molossus_molossus|XP_036120004	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_brandtii|XP_005879308	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_daubentonii|XP_059528163	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_davidii|XP_006753252	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_lucifugus|XP_006102244	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_myotis|XP_036193678	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_nattereri|XP_080967363	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Myotis_yumanensis|XP_070248280	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Phyllostomus_discolor|XP_028389753	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Phyllostomus_hastatus|XP_045717047	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Pipistrellus_kuhlii|XP_036292472	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Plecotus_auritus|XP_080503184	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Pteronotus_mesoamericanus|XP_054446266	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Pteropus_alecto|XP_006916732	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Pteropus_medius|XP_039722284	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Pteropus_vampyrus|XP_011371193	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Rhinolophus_ferrumequinum|XP_032981564	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Rhinolophus_hipposideros|XP_080927077	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Rhinolophus_sinicus|XP_019573963	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Rousettus_aegyptiacus|XP_015980955	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Saccopteryx_bilineata|XP_066122108	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Saccopteryx_leptura|XP_066235275	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]
+UQCRB	UQCRB|Sturnira_hondurensis|XP_036904130	XP_036193678.1	RBH_OK	XP_036193678.1 cytochrome b-c1 complex subunit 7 isoform X1 [Myotis myotis]

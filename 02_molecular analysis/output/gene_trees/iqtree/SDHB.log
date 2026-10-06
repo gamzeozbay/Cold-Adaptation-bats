@@ -1,0 +1,356 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    r03c03.bullx (AVX512, FMA3, 187 GB RAM)
+Command: iqtree2 -s /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/11_codon_alignments_gblocks_final/species_fasta_by_gene/SDHB/SDHB.codon.gblocks.species.fasta -pre /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB -m MFP -B 1000 -alrt 1000 -nt 4 --redo
+Seed:    858103 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 24 01:37:35 2026
+Kernel:  AVX+FMA - 4 threads (4 CPU cores detected)
+
+Reading alignment file /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/11_codon_alignments_gblocks_final/species_fasta_by_gene/SDHB/SDHB.codon.gblocks.species.fasta ... Fasta format detected
+Reading fasta file: done in 0.000441199 secs using 92.02% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 28 sequences with 840 columns, 186 distinct patterns
+150 parsimony-informative, 53 singleton sites, 637 constant sites
+                           Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 9.32894e-06 secs using 96.47% CPU
+   1  Artibeus_jamaicensis         0.00%    passed     90.83%
+   2  Cnephaeus_nilssonii          0.00%    passed     99.68%
+   3  Desmodus_rotundus            0.00%    passed     92.55%
+   4  Eptesicus_fuscus             0.00%    passed     99.22%
+   5  Hipposideros_armiger         0.00%    passed     95.81%
+   6  Miniopterus_natalensis       0.00%    passed     79.60%
+   7  Miniopterus_schreibersii     0.00%    passed     85.97%
+   8  Molossus_molossus            0.00%    passed     90.73%
+   9  Myotis_brandtii              0.00%    passed     99.97%
+  10  Myotis_daubentonii           0.00%    passed     98.81%
+  11  Myotis_davidii               0.00%    passed     95.35%
+  12  Myotis_myotis                0.00%    passed     99.94%
+  13  Myotis_nattereri             0.00%    passed     99.72%
+  14  Myotis_yumanensis            0.00%    passed     99.32%
+  15  Phyllostomus_discolor        0.00%    passed      7.55%
+  16  Phyllostomus_hastatus        0.00%    passed      8.05%
+  17  Pipistrellus_kuhlii          0.00%    passed     86.13%
+  18  Plecotus_auritus             0.00%    passed     95.86%
+  19  Pteronotus_mesoamericanus    0.00%    passed     99.91%
+  20  Pteropus_alecto              0.00%    passed     90.72%
+  21  Pteropus_medius              0.00%    passed     88.39%
+  22  Pteropus_vampyrus            0.00%    passed     90.72%
+  23  Rhinolophus_ferrumequinum    0.00%    passed     86.98%
+  24  Rhinolophus_hipposideros     0.00%    passed     93.47%
+  25  Rousettus_aegyptiacus        0.00%    passed     84.44%
+  26  Saccopteryx_bilineata        0.00%    passed     99.97%
+  27  Saccopteryx_leptura          0.00%    passed     99.91%
+  28  Sturnira_hondurensis         0.00%    passed     97.95%
+****  TOTAL                        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3378.070
+Optimal log-likelihood: -3378.063
+Rate parameters:  A-C: 0.93266  A-G: 3.84772  A-T: 0.17081  C-G: 1.12526  C-T: 6.76722  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.258  G: 0.254  T: 0.215
+Proportion of invariable sites: 0.383
+Gamma shape alpha: 0.440
+Parameters optimization took 1 rounds (0.004 sec)
+Time for fast ML tree search: 0.045 seconds
+
+NOTE: ModelFinder requires 2 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 840 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  GTR+F         3541.083     61  7204.166     7213.888     7492.903
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  GTR+F+I       3389.211     62  6902.422     6912.476     7195.893
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  GTR+F+G4      3382.504     62  6889.008     6899.062     7182.479
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  GTR+F+I+G4    3378.055     63  6882.110     6892.501     7180.314
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  5  GTR+F+R2      3377.641     63  6881.282     6891.673     7179.486
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  6  GTR+F+R3      3377.607     65  6885.214     6896.299     7192.885
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 14  GTR+F+I+R2    3377.390     64  6882.779     6893.515     7185.717
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 15  GTR+F+I+R3    3377.123     66  6886.246     6897.687     7198.651
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 25  SYM+G4        3387.125     59  6892.249     6901.326     7171.520
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 26  SYM+I+G4      3382.167     60  6884.335     6893.731     7168.339
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 27  SYM+R2        3381.033     60  6882.065     6891.462     7166.069
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 36  SYM+I+R2      3380.978     61  6883.957     6893.679     7172.694
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 47  TVM+F+G4      3389.206     61  6900.413     6910.135     7189.150
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 48  TVM+F+I+G4    3384.665     62  6893.329     6903.383     7186.800
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 49  TVM+F+R2      3384.198     62  6892.396     6902.450     7185.867
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 58  TVM+F+I+R2    3383.990     63  6893.981     6904.372     7192.185
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 69  TVMe+G4       3391.609     58  6899.217     6907.980     7173.755
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 70  TVMe+I+G4     3386.557     59  6891.113     6900.190     7170.384
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 71  TVMe+R2       3385.564     59  6889.127     6898.204     7168.398
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 80  TVMe+I+R2     3385.491     60  6890.983     6900.380     7174.987
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 91  TIM3+F+G4     3390.508     60  6901.015     6910.412     7185.019
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 92  TIM3+F+I+G4   3386.252     61  6894.503     6904.226     7183.241
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 93  TIM3+F+R2     3385.844     61  6893.689     6903.411     7182.426
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+102  TIM3+F+I+R2   3385.614     62  6895.229     6905.283     7188.700
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+113  TIM3e+G4      3394.484     57  6902.968     6911.424     7172.772
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+114  TIM3e+I+G4    3389.707     58  6895.414     6904.177     7169.951
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+115  TIM3e+R2      3388.633     58  6893.266     6902.029     7167.803
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+124  TIM3e+I+R2    3388.620     59  6895.241     6904.318     7174.512
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+135  TIM2+F+G4     3389.733     60  6899.466     6908.862     7183.470
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+136  TIM2+F+I+G4   3385.530     61  6893.059     6902.781     7181.797
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+137  TIM2+F+R2     3385.716     61  6893.432     6903.155     7182.170
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+146  TIM2+F+I+R2   3385.194     62  6894.388     6904.442     7187.859
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+157  TIM2e+G4      3395.991     57  6905.981     6914.437     7175.785
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+158  TIM2e+I+G4    3391.429     58  6898.857     6907.621     7173.395
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+159  TIM2e+R2      3391.001     58  6898.002     6906.765     7172.539
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+168  TIM2e+I+R2    3390.708     59  6899.416     6908.493     7178.687
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+179  TIM+F+G4      3391.699     60  6903.398     6912.795     7187.402
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+180  TIM+F+I+G4    3387.765     61  6897.531     6907.253     7186.268
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+181  TIM+F+R2      3388.008     61  6898.017     6907.739     7186.754
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+190  TIM+F+I+R2    3387.547     62  6899.094     6909.148     7192.565
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+201  TIMe+G4       3397.351     57  6908.702     6917.157     7178.505
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+202  TIMe+I+G4     3393.056     58  6902.112     6910.876     7176.650
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+203  TIMe+R2       3392.717     58  6901.434     6910.197     7175.971
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+212  TIMe+I+R2     3392.466     59  6902.932     6912.009     7182.203
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+223  TPM3u+F+G4    3397.262     59  6912.525     6921.602     7191.796
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+224  TPM3u+F+I+G4  3392.893     60  6905.787     6915.184     7189.791
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+225  TPM3u+F+R2    3392.564     60  6905.129     6914.525     7189.133
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+234  TPM3u+F+I+R2  3392.364     61  6906.729     6916.451     7195.466
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+245  TPM3+G4       3398.964     56  6909.929     6918.082     7174.999
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+246  TPM3+I+G4     3394.066     57  6902.133     6910.588     7171.937
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+247  TPM3+R2       3393.217     57  6900.435     6908.890     7170.239
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+256  TPM3+I+R2     3393.160     58  6902.320     6911.084     7176.858
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+267  TPM2u+F+G4    3396.431     59  6910.863     6919.940     7190.133
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+268  TPM2u+F+I+G4  3392.303     60  6904.605     6914.002     7188.609
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+269  TPM2u+F+R2    3392.381     60  6904.762     6914.159     7188.767
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+278  TPM2u+F+I+R2  3392.054     61  6906.107     6915.829     7194.845
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+289  TPM2+G4       3400.330     56  6912.661     6920.814     7177.731
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+290  TPM2+I+G4     3395.814     57  6905.629     6914.084     7175.432
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+291  TPM2+R2       3395.482     57  6904.963     6913.419     7174.767
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+300  TPM2+I+R2     3395.262     58  6906.525     6915.288     7181.062
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+311  K3Pu+F+G4     3398.476     59  6914.952     6924.029     7194.223
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+312  K3Pu+F+I+G4   3394.645     60  6909.289     6918.686     7193.293
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+313  K3Pu+F+R2     3394.820     60  6909.641     6919.037     7193.645
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+322  K3Pu+F+I+R2   3394.523     61  6911.045     6920.768     7199.783
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+333  K3P+G4        3401.704     56  6915.409     6923.562     7180.479
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+334  K3P+I+G4      3397.472     57  6908.943     6917.399     7178.747
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+335  K3P+R2        3397.264     57  6908.528     6916.984     7178.332
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+344  K3P+I+R2      3397.062     58  6910.123     6918.886     7184.660
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+355  TN+F+G4       3393.677     59  6905.354     6914.431     7184.625
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+356  TN+F+I+G4     3389.660     60  6899.320     6908.717     7183.324
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+357  TN+F+R2       3389.921     60  6899.842     6909.238     7183.846
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+366  TN+F+I+R2     3389.459     61  6900.918     6910.641     7189.656
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+377  TNe+G4        3399.342     56  6910.684     6918.838     7175.755
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+378  TNe+I+G4      3394.965     57  6903.930     6912.385     7173.734
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+379  TNe+R2        3394.630     57  6903.259     6911.715     7173.063
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+388  TNe+I+R2      3394.392     58  6904.784     6913.547     7179.321
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+399  HKY+F+G4      3400.446     58  6916.891     6925.654     7191.428
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+400  HKY+F+I+G4    3396.548     59  6911.096     6920.173     7190.366
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+401  HKY+F+R2      3396.721     59  6911.442     6920.519     7190.712
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+410  HKY+F+I+R2    3396.413     60  6912.826     6922.222     7196.830
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+421  K2P+G4        3403.685     55  6917.369     6925.227     7177.707
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+422  K2P+I+G4      3399.382     56  6910.764     6918.918     7175.835
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+423  K2P+R2        3399.167     56  6910.334     6918.487     7175.404
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+432  K2P+I+R2      3398.965     57  6911.930     6920.385     7181.734
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+443  F81+F+G4      3549.397     57  7212.794     7221.249     7482.598
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+444  F81+F+I+G4    3546.166     58  7208.332     7217.095     7482.869
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+445  F81+F+R2      3546.029     58  7208.058     7216.821     7482.595
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+454  F81+F+I+R2    3545.920     59  7209.841     7218.918     7489.112
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+465  JC+G4         3552.084     54  7212.169     7219.735     7467.772
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+466  JC+I+G4       3548.629     55  7207.258     7215.115     7467.595
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+467  JC+R2         3548.391     55  7206.781     7214.638     7467.118
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+476  JC+I+R2       3548.302     56  7208.605     7216.758     7473.675
+Akaike Information Criterion:           GTR+F+R2
+Corrected Akaike Information Criterion: SYM+R2
+Bayesian Information Criterion:         SYM+R2
+Best-fit model: SYM+R2 chosen according to BIC
+
+All model information printed to /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.model.gz
+CPU time for ModelFinder: 4.367 seconds (0h:0m:4s)
+Wall-clock time for ModelFinder: 1.109 seconds (0h:0m:1s)
+Generating 1000 samples for ultrafast bootstrap (seed: 858103)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3548.391
+2. Current log-likelihood: -3381.880
+3. Current log-likelihood: -3381.069
+Optimal log-likelihood: -3381.039
+Rate parameters:  A-C: 1.13850  A-G: 4.52130  A-T: 0.17153  C-G: 1.33764  C-T: 7.13016  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.831,0.209) (0.169,4.893)
+Parameters optimization took 3 rounds (0.025 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.000634993 secs using 670.9% CPU
+Computing ML distances took 0.000701 sec (of wall-clock time) 0.004332 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 5.1718e-05 secs using 129.5% CPU
+Computing RapidNJ tree took 0.000304 sec (of wall-clock time) 0.000726 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3385.212
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.151 second
+Computing log-likelihood of 98 initial trees ... 0.154 seconds
+Current best score: -3381.039
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3381.030
+Iteration 10 / LogL: -3388.932 / Time: 0h:0m:1s
+Iteration 20 / LogL: -3388.932 / Time: 0h:0m:1s
+Finish initializing candidate tree set (3)
+Current best tree score: -3381.030 / CPU time: 0.669
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+UPDATE BEST LOG-LIKELIHOOD: -3381.030
+UPDATE BEST LOG-LIKELIHOOD: -3381.030
+Iteration 30 / LogL: -3381.030 / Time: 0h:0m:2s (0h:0m:2s left)
+Iteration 40 / LogL: -3381.031 / Time: 0h:0m:2s (0h:0m:2s left)
+UPDATE BEST LOG-LIKELIHOOD: -3381.030
+Iteration 50 / LogL: -3381.030 / Time: 0h:0m:3s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -3409.873
+Iteration 60 / LogL: -3381.030 / Time: 0h:0m:3s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -3381.030
+Iteration 70 / LogL: -3384.474 / Time: 0h:0m:3s (0h:0m:1s left)
+Iteration 80 / LogL: -3387.559 / Time: 0h:0m:4s (0h:0m:0s left)
+Iteration 90 / LogL: -3387.559 / Time: 0h:0m:4s (0h:0m:0s left)
+Iteration 100 / LogL: -3381.030 / Time: 0h:0m:5s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3410.411
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:5s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3381.030
+Optimal log-likelihood: -3381.027
+Rate parameters:  A-C: 1.14145  A-G: 4.52155  A-T: 0.17227  C-G: 1.33837  C-T: 7.13097  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.833,0.213) (0.167,4.938)
+Parameters optimization took 1 rounds (0.005 sec)
+BEST SCORE FOUND : -3381.027
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.123 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.splits.nex
+Total tree length: 0.540
+
+Total number of iterations: 102
+CPU time used for tree search: 15.433 sec (0h:0m:15s)
+Wall-clock time used for tree search: 4.162 sec (0h:0m:4s)
+Total CPU time used: 20.569 sec (0h:0m:20s)
+Total wall-clock time used: 5.518 sec (0h:0m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.splits.nex...
+28 taxa and 140 splits.
+Consensus tree written to /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.contree
+Reading input trees file /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.contree
+Log-likelihood of consensus tree: -3381.030
+
+Analysis results written to: 
+  IQ-TREE report:                /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.iqtree
+  Maximum-likelihood tree:       /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.treefile
+  Likelihood distances:          /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.splits.nex
+  Consensus tree:                /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.contree
+  Screen log file:               /scratch/project_2004342/everything/paml_clean/FINAL_refseq_ftp_pipeline/12_species_tree_final/iqtree/SDHB.log
+
+Date and Time: Fri Jul 24 01:37:41 2026

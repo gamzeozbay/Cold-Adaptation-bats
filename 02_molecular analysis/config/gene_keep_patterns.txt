@@ -1,0 +1,36 @@
+ACSL1|||long-chain-fatty-acid--CoA ligase 1;;fatty acid CoA ligase Acsl1;;long-chain acyl-CoA synthetase 1
+ADCY3|||adenylate cyclase type 3
+ADCY7|||adenylate cyclase type 7
+ADCY8|||adenylate cyclase type 8
+ATP5F1A|||ATP synthase subunit alpha, mitochondrial;;ATP synthase F(1) complex subunit alpha, mitochondrial
+ATP5F1B|||ATP synthase subunit beta, mitochondrial;;ATP synthase F(1) complex subunit beta, mitochondrial
+ATP5MC1|||ATP synthase F(0) complex subunit C1, mitochondrial
+ATP6|||ATP synthase F0 subunit 6;;ATPase subunit 6
+COX4I1|||cytochrome c oxidase subunit 4 isoform 1, mitochondrial
+COX7A1|||cytochrome c oxidase subunit 7A1, mitochondrial
+CPT1A|||carnitine O-palmitoyltransferase 1, liver isoform
+CPT1B|||carnitine O-palmitoyltransferase 1, muscle isoform
+CPT2|||carnitine O-palmitoyltransferase 2, mitochondrial
+CREB3L1|||cyclic AMP-responsive element-binding protein 3-like protein 1
+CREB3L4|||cyclic AMP-responsive element-binding protein 3-like protein 4
+CREB5|||cyclic AMP-responsive element-binding protein 5
+FGFR1|||fibroblast growth factor receptor 1
+ND3|||NADH dehydrogenase subunit 3;;NAD3
+ND4|||NADH dehydrogenase subunit 4;;NAD4
+NDUFA1|||NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+NDUFB8|||NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial
+NDUFS2|||NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial
+NDUFV2|||NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial
+PLIN1|||perilipin-1;;perilipin 1
+PPARG|||peroxisome proliferator-activated receptor gamma
+PPARGC1A|||peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+PRDM16|||histone-lysine N-methyltransferase PRDM16;;PR domain zinc finger protein 16;;PR domain-containing protein 16
+PRKAA1|||5'-AMP-activated protein kinase catalytic subunit alpha-1;;AMP-activated protein kinase catalytic subunit alpha-1
+SDHA1|||succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+SDHB|||succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+SIRT6|||NAD-dependent protein deacetylase sirtuin-6;;NAD-dependent protein deacylase sirtuin-6
+SLC25A20|||mitochondrial carnitine/acylcarnitine carrier protein;;solute carrier family 25 member 20
+SOS1|||son of sevenless homolog 1
+SOS2|||son of sevenless homolog 2
+UCP1|||mitochondrial brown fat uncoupling protein 1;;mitochondrial uncoupling protein 1
+UQCRB|||cytochrome b-c1 complex subunit 7

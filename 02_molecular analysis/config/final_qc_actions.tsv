@@ -1,0 +1,8 @@
+gene	species	old_accession	new_accession	action	reason
+FGFR1	Myotis myotis	XP_036152653	XP_036152655	REPLACE	Alternative isoform has a more complete and consensus-compatible FGFR1 architecture.
+FGFR1	Rhinolophus sinicus	XP_019603652	XP_074185739	REPLACE	Alternative isoform has a more complete and consensus-compatible FGFR1 architecture.
+NDUFS2	Artibeus jamaicensis	XP_053515345	XP_037005747	REPLACE	Alternative lacks the unique extended N-terminal segment and retains the conserved NDUFS2 body.
+PRKAA1	Myotis myotis	XP_036164931	XP_036164932	REPLACE	Alternative removes the unique internal segment while retaining the conserved PRKAA1 architecture.
+CREB3L4	Pteropus vampyrus	XP_011364843		REMOVE_TAXON	Extensive taxon-specific truncation causes substantial complete-deletion data loss.
+CREB3L4	Rousettus aegyptiacus	XP_036090791		REMOVE_TAXON	Extensive taxon-specific truncation causes substantial complete-deletion data loss; alternative did not improve it.
+COX7A1	Cnephaeus nilssonii	XP_079655889		REMOVE_TAXON	The only COX7A1 orthologue has a unique extended gene model causing severe alignment trimming; the remaining hits are COX7A2 paralogues and cannot be used as replacements.

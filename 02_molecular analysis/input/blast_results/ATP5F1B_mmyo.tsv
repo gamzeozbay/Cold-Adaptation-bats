@@ -1,0 +1,235 @@
+XP_036155331.1	XP_059539271	100.000	528	528	528	100	0.0	1056	ATP synthase subunit beta, mitochondrial [Myotis daubentonii]	98922
+XP_036155331.1	XP_036155331	100.000	528	528	528	100	0.0	1056	ATP synthase subunit beta, mitochondrial [Myotis myotis]	51298
+XP_036155331.1	XP_070266060	99.811	528	528	528	100	0.0	1055	ATP synthase subunit beta, mitochondrial [Myotis yumanensis]	159337
+XP_036155331.1	XP_005872132	99.621	528	528	545	100	0.0	1055	PREDICTED: ATP synthase subunit beta, mitochondrial [Myotis brandtii]	109478
+XP_036155331.1	XP_006093683	99.621	528	528	545	100	0.0	1055	ATP synthase subunit beta, mitochondrial [Myotis lucifugus]	59463
+XP_036155331.1	XP_080940514	99.621	528	528	528	100	0.0	1052	ATP synthase F(1) complex subunit beta, mitochondrial [Myotis nattereri]	109481
+XP_036155331.1	XP_036313244	98.864	528	528	545	100	0.0	1048	ATP synthase subunit beta, mitochondrial [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_079631759	98.864	528	528	528	100	0.0	1046	ATP synthase F(1) complex subunit beta, mitochondrial [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_080518451	98.674	528	528	545	100	0.0	1046	ATP synthase F(1) complex subunit beta, mitochondrial [Plecotus auritus]	61862
+XP_036155331.1	XP_008146880	98.674	528	528	528	100	0.0	1046	ATP synthase subunit beta, mitochondrial [Eptesicus fuscus]	29078
+XP_036155331.1	XP_016080054	98.106	528	528	528	100	0.0	1040	PREDICTED: ATP synthase subunit beta, mitochondrial [Miniopterus natalensis]	291302
+XP_036155331.1	XP_080984261	98.106	528	528	528	100	0.0	1040	ATP synthase F(1) complex subunit beta, mitochondrial [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_045685767	98.106	528	528	528	100	0.0	1039	ATP synthase subunit beta, mitochondrial [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_028387599	98.106	528	528	528	100	0.0	1039	ATP synthase subunit beta, mitochondrial [Phyllostomus discolor]	89673
+XP_036155331.1	XP_019524568	98.106	528	528	528	100	0.0	1039	PREDICTED: ATP synthase subunit beta, mitochondrial [Hipposideros armiger]	186990
+XP_036155331.1	XP_036989161	98.106	528	528	528	100	0.0	1038	ATP synthase subunit beta, mitochondrial [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_036108150	97.917	528	528	528	100	0.0	1038	ATP synthase subunit beta, mitochondrial [Molossus molossus]	27622
+XP_036155331.1	XP_036886030	98.106	528	528	528	100	0.0	1038	ATP synthase F(1) complex subunit beta, mitochondrial [Sturnira hondurensis]	192404
+XP_036155331.1	XP_066225913	97.917	528	528	528	100	0.0	1037	ATP synthase subunit beta, mitochondrial [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066114477	97.917	528	528	528	100	0.0	1037	ATP synthase subunit beta, mitochondrial [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_016021188	97.917	528	528	528	100	0.0	1037	ATP synthase subunit beta, mitochondrial [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_024432142	97.917	528	528	528	100	0.0	1036	ATP synthase subunit beta, mitochondrial [Desmodus rotundus]	9430
+XP_036155331.1	XP_054435903	97.917	528	528	528	100	0.0	1035	ATP synthase subunit beta, mitochondrial [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_032973962	97.538	528	528	528	100	0.0	1035	ATP synthase subunit beta, mitochondrial [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_019597981	97.538	528	528	528	100	0.0	1033	ATP synthase F(1) complex subunit beta, mitochondrial [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_080915968	97.348	528	528	528	100	0.0	1032	ATP synthase F(1) complex subunit beta, mitochondrial [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_006908981	97.348	528	528	528	100	0.0	1031	ATP synthase subunit beta, mitochondrial [Pteropus alecto]	9402
+XP_036155331.1	XP_011373944	97.348	528	528	528	100	0.0	1031	ATP synthase subunit beta, mitochondrial [Pteropus vampyrus]	132908
+XP_036155331.1	XP_039721660	97.348	528	528	528	100	0.0	1031	ATP synthase F(1) complex subunit beta, mitochondrial [Pteropus medius]	143291
+XP_036155331.1	XP_059515374	94.129	528	528	524	100	0.0	935	LOW QUALITY PROTEIN: ATP synthase subunit beta, mitochondrial-like [Myotis daubentonii]	98922
+XP_036155331.1	XP_015420154	90.909	528	528	528	100	0.0	913	PREDICTED: LOW QUALITY PROTEIN: ATP synthase subunit beta, mitochondrial-like [Myotis davidii]	225400
+XP_036155331.1	XP_080961767	90.720	528	528	526	100	0.0	899	LOW QUALITY PROTEIN: ATP synthase subunit beta, mitochondrial-like [Myotis nattereri]	109481
+XP_036155331.1	XP_015412899	100.000	429	528	474	81	0.0	858	PREDICTED: ATP synthase subunit beta, mitochondrial [Myotis davidii]	225400
+XP_036155331.1	XP_006909734	26.456	412	528	513	73	7.48e-28	122	V-type proton ATPase subunit B, kidney isoform [Pteropus alecto]	9402
+XP_036155331.1	XP_011363859	26.214	412	528	513	73	2.19e-27	120	V-type proton ATPase subunit B, kidney isoform [Pteropus vampyrus]	132908
+XP_036155331.1	XP_039708473	26.214	412	528	513	73	2.19e-27	120	V-type proton ATPase subunit B, kidney isoform [Pteropus medius]	143291
+XP_036155331.1	XP_016011267	25.971	412	528	513	73	2.59e-27	120	V-type proton ATPase subunit B, kidney isoform [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_045709099	25.528	521	528	511	93	2.70e-27	120	V-type proton ATPase subunit B, brain isoform [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_080932906	25.336	521	528	511	93	3.57e-27	120	V-type proton ATPase subunit B, brain isoform [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_028375719	25.336	521	528	511	93	4.15e-27	120	V-type proton ATPase subunit B, brain isoform [Phyllostomus discolor]	89673
+XP_036155331.1	XP_006904420	25.144	521	528	511	93	4.74e-27	119	V-type proton ATPase subunit B, brain isoform [Pteropus alecto]	9402
+XP_036155331.1	XP_074188245	25.971	412	528	513	73	5.70e-27	119	V-type proton ATPase subunit B, kidney isoform [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_024416520	25.336	521	528	511	93	7.09e-27	119	V-type proton ATPase subunit B, brain isoform [Desmodus rotundus]	9430
+XP_036155331.1	XP_037008589	25.336	521	528	511	93	7.09e-27	119	V-type proton ATPase subunit B, brain isoform [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_036884575	25.336	521	528	511	93	7.09e-27	119	V-type proton ATPase subunit B, brain isoform [Sturnira hondurensis]	192404
+XP_036155331.1	XP_019600218	25.336	521	528	511	93	7.36e-27	119	V-type proton ATPase subunit B, brain isoform [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_032980827	25.728	412	528	513	73	8.54e-27	119	V-type proton ATPase subunit B, kidney isoform [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_036190084	25.971	412	528	513	73	1.12e-26	118	V-type proton ATPase subunit B, kidney isoform [Myotis myotis]	51298
+XP_036155331.1	XP_019503152	25.728	412	528	513	73	1.22e-26	118	PREDICTED: V-type proton ATPase subunit B, kidney isoform [Hipposideros armiger]	186990
+XP_036155331.1	XP_059515472	25.971	412	528	513	73	1.33e-26	118	V-type proton ATPase subunit B, kidney isoform [Myotis daubentonii]	98922
+XP_036155331.1	XP_080957425	25.971	412	528	513	73	1.36e-26	118	V-type proton ATPase subunit B, kidney isoform [Myotis nattereri]	109481
+XP_036155331.1	XP_080924185	26.178	382	528	513	69	1.76e-26	118	V-type proton ATPase subunit B, kidney isoform 1 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_036096184	25.144	521	528	511	93	2.06e-26	117	V-type proton ATPase subunit B, brain isoform [Molossus molossus]	27622
+XP_036155331.1	XP_011364995	24.952	521	528	511	93	2.12e-26	117	V-type proton ATPase subunit B, brain isoform [Pteropus vampyrus]	132908
+XP_036155331.1	XP_039723944	24.952	521	528	511	93	2.12e-26	117	V-type proton ATPase subunit B, brain isoform [Pteropus medius]	143291
+XP_036155331.1	XP_032990504	25.336	521	528	511	93	2.56e-26	117	LOW QUALITY PROTEIN: V-type proton ATPase subunit B, brain isoform [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_005867843	25.971	412	528	513	73	2.65e-26	117	PREDICTED: V-type proton ATPase subunit B, kidney isoform isoform X2 [Myotis brandtii]	109478
+XP_036155331.1	XP_036168710	25.486	514	528	511	92	2.71e-26	117	V-type proton ATPase subunit B, brain isoform [Myotis myotis]	51298
+XP_036155331.1	XP_006103249	25.486	514	528	511	92	2.71e-26	117	V-type proton ATPase subunit B, brain isoform isoform X1 [Myotis lucifugus]	59463
+XP_036155331.1	XP_080949230	25.486	514	528	511	92	2.71e-26	117	V-type proton ATPase subunit B, brain isoform [Myotis nattereri]	109481
+XP_036155331.1	XP_070285532	25.971	412	528	513	73	2.80e-26	117	V-type proton ATPase subunit B, kidney isoform [Myotis yumanensis]	159337
+XP_036155331.1	XP_066207141	25.458	491	528	511	88	2.81e-26	117	V-type proton ATPase subunit B, brain isoform [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066124219	25.458	491	528	511	88	2.81e-26	117	V-type proton ATPase subunit B, brain isoform [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_036983128	26.178	382	528	513	69	3.78e-26	117	V-type proton ATPase subunit B, kidney isoform [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_036306393	26.634	413	528	513	73	4.51e-26	117	V-type proton ATPase subunit B, brain isoform isoform X1 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_080540962	25.728	412	528	513	73	4.73e-26	117	V-type proton ATPase subunit B, kidney isoform [Plecotus auritus]	61862
+XP_036155331.1	XP_081013108	25.728	412	528	513	73	4.77e-26	117	V-type proton ATPase subunit B, kidney isoform [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_036291553	26.632	383	528	513	69	4.82e-26	117	V-type proton ATPase subunit B, kidney isoform isoform X2 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_023600275	26.634	413	528	468	73	5.06e-26	116	V-type proton ATPase subunit B, brain isoform isoform X3 [Myotis lucifugus]	59463
+XP_036155331.1	XP_079648946	25.485	412	528	513	73	5.70e-26	116	V-type proton ATPase subunit B, kidney isoform [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_023600274	26.634	413	528	469	73	5.78e-26	116	V-type proton ATPase subunit B, brain isoform isoform X2 [Myotis lucifugus]	59463
+XP_036155331.1	XP_035883989	25.485	412	528	476	73	6.24e-26	116	V-type proton ATPase subunit B, kidney isoform isoform X2 [Phyllostomus discolor]	89673
+XP_036155331.1	XP_008145708	25.485	412	528	513	73	6.55e-26	116	V-type proton ATPase subunit B, kidney isoform [Eptesicus fuscus]	29078
+XP_036155331.1	XP_070272640	25.292	514	528	511	92	7.15e-26	116	V-type proton ATPase subunit B, brain isoform [Myotis yumanensis]	159337
+XP_036155331.1	XP_059552037	25.292	514	528	511	92	7.15e-26	116	V-type proton ATPase subunit B, brain isoform [Myotis daubentonii]	98922
+XP_036155331.1	XP_005873857	25.292	514	528	511	92	7.15e-26	116	PREDICTED: V-type proton ATPase subunit B, brain isoform [Myotis brandtii]	109478
+XP_036155331.1	XP_080529227	25.292	514	528	511	92	7.15e-26	116	V-type proton ATPase subunit B, brain isoform [Plecotus auritus]	61862
+XP_036155331.1	XP_036118956	25.728	412	528	513	73	7.26e-26	116	V-type proton ATPase subunit B, kidney isoform [Molossus molossus]	27622
+XP_036155331.1	XP_036904027	25.916	382	528	513	69	7.40e-26	116	V-type proton ATPase subunit B, kidney isoform [Sturnira hondurensis]	192404
+XP_036155331.1	XP_028373220	25.485	412	528	513	73	7.90e-26	116	V-type proton ATPase subunit B, kidney isoform isoform X1 [Phyllostomus discolor]	89673
+XP_036155331.1	XP_036098623	29.043	303	528	492	54	1.08e-25	115	V-type proton ATPase catalytic subunit A isoform X3 [Molossus molossus]	27622
+XP_036155331.1	XP_024907076	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus alecto]	9402
+XP_036155331.1	XP_024907075	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus alecto]	9402
+XP_036155331.1	XP_024907074	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus alecto]	9402
+XP_036155331.1	XP_024907072	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus alecto]	9402
+XP_036155331.1	XP_024907067	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus alecto]	9402
+XP_036155331.1	XP_039698975	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus medius]	143291
+XP_036155331.1	XP_039698974	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus medius]	143291
+XP_036155331.1	XP_039698973	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus medius]	143291
+XP_036155331.1	XP_039698972	29.043	303	528	492	54	1.17e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Pteropus medius]	143291
+XP_036155331.1	XP_054434926	26.392	413	528	511	73	1.26e-25	115	V-type proton ATPase subunit B, brain isoform [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_054442913	25.485	412	528	513	73	1.28e-25	115	V-type proton ATPase subunit B, kidney isoform [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_053779733	25.916	382	528	525	69	1.39e-25	115	V-type proton ATPase subunit B, kidney isoform isoform X1 [Desmodus rotundus]	9430
+XP_036155331.1	XP_006778370	26.634	413	528	479	73	1.39e-25	115	PREDICTED: V-type proton ATPase subunit B, brain isoform [Myotis davidii]	225400
+XP_036155331.1	XP_015426961	25.728	412	528	513	73	1.41e-25	115	PREDICTED: V-type proton ATPase subunit B, kidney isoform [Myotis davidii]	225400
+XP_036155331.1	XP_008154564	26.392	413	528	513	73	1.50e-25	115	V-type proton ATPase subunit B, brain isoform [Eptesicus fuscus]	29078
+XP_036155331.1	XP_079627713	26.392	413	528	513	73	1.50e-25	115	V-type proton ATPase subunit B, brain isoform [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_066234112	25.485	412	528	513	73	1.73e-25	115	V-type proton ATPase subunit B, kidney isoform [Saccopteryx leptura]	249018
+XP_036155331.1	XP_045441837	26.303	403	528	508	73	1.86e-25	115	V-type proton ATPase subunit B, brain isoform isoform X2 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_053779734	25.916	382	528	513	69	1.91e-25	115	V-type proton ATPase subunit B, kidney isoform isoform X2 [Desmodus rotundus]	9430
+XP_036155331.1	XP_071076722	29.043	303	528	618	54	2.04e-25	115	LOW QUALITY PROTEIN: V-type proton ATPase catalytic subunit A [Desmodus rotundus]	9430
+XP_036155331.1	XP_045707582	29.043	303	528	618	54	2.04e-25	115	V-type proton ATPase catalytic subunit A [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_045707581	29.043	303	528	618	54	2.04e-25	115	V-type proton ATPase catalytic subunit A [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_028359391	29.043	303	528	618	54	2.04e-25	115	V-type proton ATPase catalytic subunit A [Phyllostomus discolor]	89673
+XP_036155331.1	XP_028359366	29.043	303	528	618	54	2.04e-25	115	V-type proton ATPase catalytic subunit A [Phyllostomus discolor]	89673
+XP_036155331.1	XP_028359373	29.043	303	528	618	54	2.04e-25	115	V-type proton ATPase catalytic subunit A [Phyllostomus discolor]	89673
+XP_036155331.1	XP_036913289	29.043	303	528	618	54	2.06e-25	115	V-type proton ATPase catalytic subunit A [Sturnira hondurensis]	192404
+XP_036155331.1	XP_036913288	29.043	303	528	618	54	2.06e-25	115	V-type proton ATPase catalytic subunit A [Sturnira hondurensis]	192404
+XP_036155331.1	XP_016066370	24.952	521	528	511	93	2.09e-25	115	PREDICTED: V-type proton ATPase subunit B, brain isoform isoform X1 [Miniopterus natalensis]	291302
+XP_036155331.1	XP_080990515	24.952	521	528	511	93	2.09e-25	115	V-type proton ATPase subunit B, brain isoform [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_054433264	29.043	303	528	618	54	2.10e-25	115	V-type proton ATPase catalytic subunit A [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_036992816	29.043	303	528	618	54	2.10e-25	115	V-type proton ATPase catalytic subunit A [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_036992815	29.043	303	528	618	54	2.10e-25	115	V-type proton ATPase catalytic subunit A [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_066123442	25.485	412	528	513	73	2.14e-25	115	V-type proton ATPase subunit B, kidney isoform [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_036098621	29.043	303	528	617	54	2.21e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Molossus molossus]	27622
+XP_036155331.1	XP_036098620	29.043	303	528	617	54	2.21e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Molossus molossus]	27622
+XP_036155331.1	XP_036098619	29.043	303	528	617	54	2.21e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Molossus molossus]	27622
+XP_036155331.1	XP_023380292	29.043	303	528	618	54	2.24e-25	115	V-type proton ATPase catalytic subunit A [Pteropus vampyrus]	132908
+XP_036155331.1	XP_023380268	29.043	303	528	618	54	2.24e-25	115	V-type proton ATPase catalytic subunit A [Pteropus vampyrus]	132908
+XP_036155331.1	XP_011376257	29.043	303	528	618	54	2.24e-25	115	V-type proton ATPase catalytic subunit A [Pteropus vampyrus]	132908
+XP_036155331.1	XP_011376335	29.043	303	528	618	54	2.24e-25	115	V-type proton ATPase catalytic subunit A [Pteropus vampyrus]	132908
+XP_036155331.1	XP_023380191	29.043	303	528	618	54	2.24e-25	115	V-type proton ATPase catalytic subunit A [Pteropus vampyrus]	132908
+XP_036155331.1	XP_024907063	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus alecto]	9402
+XP_036155331.1	XP_024907061	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus alecto]	9402
+XP_036155331.1	XP_015450840	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus alecto]	9402
+XP_036155331.1	XP_006905533	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus alecto]	9402
+XP_036155331.1	XP_006905532	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus alecto]	9402
+XP_036155331.1	XP_039698970	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus medius]	143291
+XP_036155331.1	XP_039698969	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus medius]	143291
+XP_036155331.1	XP_039698968	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus medius]	143291
+XP_036155331.1	XP_039698967	29.043	303	528	618	54	2.28e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Pteropus medius]	143291
+XP_036155331.1	XP_016055717	29.043	303	528	617	54	2.42e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Miniopterus natalensis]	291302
+XP_036155331.1	XP_016055716	29.043	303	528	617	54	2.42e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Miniopterus natalensis]	291302
+XP_036155331.1	XP_080994908	29.043	303	528	617	54	2.42e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_080994907	29.043	303	528	617	54	2.42e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_016006157	29.043	303	528	618	54	2.43e-25	115	V-type proton ATPase catalytic subunit A [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_016006156	29.043	303	528	618	54	2.43e-25	115	V-type proton ATPase catalytic subunit A [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_023614452	28.713	303	528	584	54	2.77e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Myotis lucifugus]	59463
+XP_036155331.1	XP_023614451	28.713	303	528	584	54	2.77e-25	115	V-type proton ATPase catalytic subunit A isoform X2 [Myotis lucifugus]	59463
+XP_036155331.1	XP_066203818	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066203817	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066203816	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066203815	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066097726	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_066097725	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_066097724	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_066097723	29.043	303	528	618	54	3.43e-25	115	V-type proton ATPase catalytic subunit A [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_059543793	28.713	303	528	617	54	3.51e-25	115	V-type proton ATPase catalytic subunit A [Myotis daubentonii]	98922
+XP_036155331.1	XP_059543792	28.713	303	528	617	54	3.51e-25	115	V-type proton ATPase catalytic subunit A [Myotis daubentonii]	98922
+XP_036155331.1	XP_006773663	28.713	303	528	617	54	3.51e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Myotis davidii]	225400
+XP_036155331.1	XP_006773662	28.713	303	528	617	54	3.51e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Myotis davidii]	225400
+XP_036155331.1	XP_036205461	28.713	303	528	617	54	3.51e-25	115	V-type proton ATPase catalytic subunit A [Myotis myotis]	51298
+XP_036155331.1	XP_036205460	28.713	303	528	617	54	3.51e-25	115	V-type proton ATPase catalytic subunit A [Myotis myotis]	51298
+XP_036155331.1	XP_080941785	28.713	303	528	617	54	3.51e-25	115	V-type proton ATPase catalytic subunit A [Myotis nattereri]	109481
+XP_036155331.1	XP_080511543	28.713	303	528	617	54	3.58e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Plecotus auritus]	61862
+XP_036155331.1	XP_080511542	28.713	303	528	617	54	3.58e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Plecotus auritus]	61862
+XP_036155331.1	XP_080511541	28.713	303	528	617	54	3.58e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Plecotus auritus]	61862
+XP_036155331.1	XP_080511540	28.713	303	528	617	54	3.58e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Plecotus auritus]	61862
+XP_036155331.1	XP_070262322	28.713	303	528	617	54	3.61e-25	115	V-type proton ATPase catalytic subunit A [Myotis yumanensis]	159337
+XP_036155331.1	XP_070262321	28.713	303	528	617	54	3.61e-25	115	V-type proton ATPase catalytic subunit A [Myotis yumanensis]	159337
+XP_036155331.1	XP_005873370	28.713	303	528	617	54	3.61e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Myotis brandtii]	109478
+XP_036155331.1	XP_005873369	28.713	303	528	617	54	3.61e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Myotis brandtii]	109478
+XP_036155331.1	XP_005873368	28.713	303	528	617	54	3.61e-25	115	PREDICTED: V-type proton ATPase catalytic subunit A [Myotis brandtii]	109478
+XP_036155331.1	XP_006094521	28.713	303	528	617	54	3.61e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Myotis lucifugus]	59463
+XP_036155331.1	XP_006094520	28.713	303	528	617	54	3.61e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Myotis lucifugus]	59463
+XP_036155331.1	XP_028009108	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_028009109	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_008144830	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform X1 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_079622616	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_079622615	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_079622614	28.713	303	528	617	54	3.75e-25	115	V-type proton ATPase catalytic subunit A isoform 1 [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_036303840	28.713	303	528	617	54	3.85e-25	114	V-type proton ATPase catalytic subunit A [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_045439939	28.713	303	528	617	54	3.85e-25	114	V-type proton ATPase catalytic subunit A [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_036303839	28.713	303	528	617	54	3.85e-25	114	V-type proton ATPase catalytic subunit A [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_016066371	26.392	413	528	492	73	5.19e-25	113	PREDICTED: V-type proton ATPase subunit B, brain isoform isoform X2 [Miniopterus natalensis]	291302
+XP_036155331.1	XP_036291552	26.478	389	528	520	69	9.13e-25	113	V-type proton ATPase subunit B, kidney isoform isoform X1 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_014396420	25.837	418	528	520	73	9.21e-25	113	PREDICTED: V-type proton ATPase subunit B, kidney isoform isoform X1 [Myotis brandtii]	109478
+XP_036155331.1	XP_019507795	28.713	303	528	618	54	1.75e-24	112	PREDICTED: V-type proton ATPase catalytic subunit A [Hipposideros armiger]	186990
+XP_036155331.1	XP_019507794	28.713	303	528	618	54	1.75e-24	112	PREDICTED: V-type proton ATPase catalytic subunit A [Hipposideros armiger]	186990
+XP_036155331.1	XP_032986555	28.713	303	528	617	54	1.83e-24	112	V-type proton ATPase catalytic subunit A [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_032986548	28.713	303	528	617	54	1.83e-24	112	V-type proton ATPase catalytic subunit A [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_080883972	28.713	303	528	617	54	1.83e-24	112	V-type proton ATPase catalytic subunit A isoform 1 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_080883971	28.713	303	528	617	54	1.83e-24	112	V-type proton ATPase catalytic subunit A isoform 1 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_074187857	28.713	303	528	617	54	1.93e-24	112	V-type proton ATPase catalytic subunit A [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_019590379	28.713	303	528	617	54	1.93e-24	112	V-type proton ATPase catalytic subunit A [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_045684756	25.243	412	528	513	73	2.04e-24	112	V-type proton ATPase subunit B, kidney isoform [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_015987951	25.666	413	528	511	73	4.66e-24	110	V-type proton ATPase subunit B, brain isoform [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_016058008	25.714	420	528	527	73	9.67e-24	110	PREDICTED: V-type proton ATPase subunit B, kidney isoform [Miniopterus natalensis]	291302
+XP_036155331.1	XP_036098622	28.058	278	528	512	49	1.13e-21	103	V-type proton ATPase catalytic subunit A isoform X2 [Molossus molossus]	27622
+XP_036155331.1	XP_054569937	27.698	278	528	515	49	1.62e-21	103	V-type proton ATPase catalytic subunit A isoform X2 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_080924186	25.131	382	528	487	69	4.59e-20	98.6	V-type proton ATPase subunit B, kidney isoform 2 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_019489042	25.902	305	528	553	55	2.01e-19	97.1	PREDICTED: LOW QUALITY PROTEIN: ATP synthase subunit alpha, mitochondrial-like [Hipposideros armiger]	186990
+XP_036155331.1	XP_053779735	24.869	382	528	499	69	4.31e-19	95.9	V-type proton ATPase subunit B, kidney isoform isoform X3 [Desmodus rotundus]	9430
+XP_036155331.1	XP_036097811	26.230	305	528	553	55	7.84e-19	95.1	ATP synthase subunit alpha, mitochondrial-like [Molossus molossus]	27622
+XP_036155331.1	XP_080935000	25.902	305	528	459	55	9.16e-19	94.4	ATP synthase F(1) complex subunit alpha, mitochondrial isoform 2 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_023606635	25.902	305	528	503	55	1.14e-18	94.4	ATP synthase subunit alpha, mitochondrial isoform X3 [Myotis lucifugus]	59463
+XP_036155331.1	XP_016003275	25.902	305	528	553	55	1.20e-18	94.7	ATP synthase subunit alpha, mitochondrial [Rousettus aegyptiacus]	9407
+XP_036155331.1	XP_015416963	25.902	305	528	503	55	1.36e-18	94.4	PREDICTED: ATP synthase subunit alpha, mitochondrial [Myotis davidii]	225400
+XP_036155331.1	XP_006920000	25.902	305	528	553	55	1.45e-18	94.4	ATP synthase subunit alpha, mitochondrial [Pteropus alecto]	9402
+XP_036155331.1	XP_011359493	25.902	305	528	553	55	1.45e-18	94.4	ATP synthase subunit alpha, mitochondrial [Pteropus vampyrus]	132908
+XP_036155331.1	XP_039698428	25.902	305	528	553	55	1.45e-18	94.4	ATP synthase F(1) complex subunit alpha, mitochondrial [Pteropus medius]	143291
+XP_036155331.1	XP_024436162	25.902	305	528	553	55	1.47e-18	94.4	ATP synthase subunit alpha, mitochondrial [Desmodus rotundus]	9430
+XP_036155331.1	XP_037020991	25.902	305	528	553	55	1.47e-18	94.4	ATP synthase subunit alpha, mitochondrial [Artibeus jamaicensis]	9417
+XP_036155331.1	XP_045706104	25.902	305	528	553	55	1.49e-18	94.4	ATP synthase subunit alpha, mitochondrial [Phyllostomus hastatus]	9423
+XP_036155331.1	XP_028379714	25.902	305	528	553	55	1.49e-18	94.4	ATP synthase subunit alpha, mitochondrial [Phyllostomus discolor]	89673
+XP_036155331.1	XP_036889604	25.902	305	528	553	55	1.51e-18	94.4	ATP synthase F(1) complex subunit alpha, mitochondrial [Sturnira hondurensis]	192404
+XP_036155331.1	XP_054580075	25.902	305	528	503	55	1.57e-18	94.0	ATP synthase subunit alpha, mitochondrial isoform X2 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_016080530	25.902	305	528	553	55	1.59e-18	94.4	PREDICTED: ATP synthase subunit alpha, mitochondrial [Miniopterus natalensis]	291302
+XP_036155331.1	XP_081004294	25.902	305	528	553	55	1.59e-18	94.4	ATP synthase F(1) complex subunit alpha, mitochondrial [Miniopterus schreibersii]	9433
+XP_036155331.1	XP_019595246	25.902	305	528	553	55	1.71e-18	94.4	ATP synthase F(1) complex subunit alpha, mitochondrial [Rhinolophus sinicus]	89399
+XP_036155331.1	XP_059563198	25.902	305	528	553	55	1.92e-18	94.0	ATP synthase subunit alpha, mitochondrial isoform X2 [Myotis daubentonii]	98922
+XP_036155331.1	XP_032943501	25.902	305	528	553	55	1.94e-18	94.0	ATP synthase subunit alpha, mitochondrial [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_080934999	25.902	305	528	553	55	1.94e-18	94.0	ATP synthase F(1) complex subunit alpha, mitochondrial isoform 1 [Rhinolophus hipposideros]	77218
+XP_036155331.1	XP_059563197	25.902	305	528	562	55	2.08e-18	94.0	ATP synthase subunit alpha, mitochondrial isoform X1 [Myotis daubentonii]	98922
+XP_036155331.1	XP_070277191	25.902	305	528	553	55	2.10e-18	94.0	ATP synthase subunit alpha, mitochondrial [Myotis yumanensis]	159337
+XP_036155331.1	XP_036178116	25.902	305	528	553	55	2.14e-18	94.0	ATP synthase subunit alpha, mitochondrial [Myotis myotis]	51298
+XP_036155331.1	XP_080952642	25.902	305	528	553	55	2.14e-18	94.0	ATP synthase F(1) complex subunit alpha, mitochondrial [Myotis nattereri]	109481
+XP_036155331.1	XP_054439565	25.574	305	528	553	55	2.31e-18	94.0	ATP synthase subunit alpha, mitochondrial [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_006085199	25.902	305	528	553	55	2.33e-18	94.0	ATP synthase subunit alpha, mitochondrial isoform X1 [Myotis lucifugus]	59463
+XP_036155331.1	XP_014394759	25.902	305	528	521	55	2.49e-18	93.6	PREDICTED: LOW QUALITY PROTEIN: ATP synthase subunit alpha, mitochondrial [Myotis brandtii]	109478
+XP_036155331.1	XP_079640605	25.902	305	528	553	55	2.55e-18	93.6	ATP synthase F(1) complex subunit alpha, mitochondrial [Cnephaeus nilssonii]	3371016
+XP_036155331.1	XP_080541388	25.902	305	528	553	55	2.62e-18	93.6	ATP synthase F(1) complex subunit alpha, mitochondrial [Plecotus auritus]	61862
+XP_036155331.1	XP_036101158	25.902	305	528	553	55	2.79e-18	93.6	ATP synthase subunit alpha, mitochondrial [Molossus molossus]	27622
+XP_036155331.1	XP_008156231	25.902	305	528	553	55	3.22e-18	93.6	ATP synthase subunit alpha, mitochondrial isoform X1 [Eptesicus fuscus]	29078
+XP_036155331.1	XP_036273984	25.902	305	528	553	55	3.22e-18	93.6	ATP synthase subunit alpha, mitochondrial isoform X1 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_066208285	25.574	305	528	553	55	1.54e-17	91.3	ATP synthase subunit alpha, mitochondrial [Saccopteryx leptura]	249018
+XP_036155331.1	XP_066102392	25.574	305	528	553	55	1.54e-17	91.3	ATP synthase subunit alpha, mitochondrial [Saccopteryx bilineata]	59482
+XP_036155331.1	XP_036131365	24.918	305	528	553	55	3.95e-17	90.1	LOW QUALITY PROTEIN: ATP synthase subunit alpha, mitochondrial-like [Molossus molossus]	27622
+XP_036155331.1	XP_054428655	25.606	289	528	536	53	7.93e-17	89.0	ATP synthase subunit alpha, mitochondrial-like [Pteronotus mesoamericanus]	1884717
+XP_036155331.1	XP_019522727	25.246	305	528	503	55	9.39e-17	88.6	PREDICTED: LOW QUALITY PROTEIN: ATP synthase subunit alpha, mitochondrial-like [Hipposideros armiger]	186990
+XP_036155331.1	XP_023606634	25.540	278	528	517	50	1.78e-15	84.7	ATP synthase subunit alpha, mitochondrial isoform X2 [Myotis lucifugus]	59463
+XP_036155331.1	XP_045430177	25.540	278	528	517	50	2.77e-15	84.0	ATP synthase subunit alpha, mitochondrial isoform X2 [Pipistrellus kuhlii]	59472
+XP_036155331.1	XP_032958155	23.796	353	528	468	62	2.83e-15	84.0	LOW QUALITY PROTEIN: ATP synthase subunit alpha, mitochondrial-like [Rhinolophus ferrumequinum]	59479
+XP_036155331.1	XP_023600276	26.728	217	528	437	39	4.56e-11	70.5	V-type proton ATPase subunit B, brain isoform isoform X4 [Myotis lucifugus]	59463
+XP_036155331.1	XP_036306394	27.807	187	528	439	34	5.02e-11	70.5	V-type proton ATPase subunit B, brain isoform isoform X3 [Pipistrellus kuhlii]	59472
